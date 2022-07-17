@@ -1,0 +1,1738 @@
+date_week,isMobile,source,medium,referralPath,region,visits,bounces,transactions,totalTransactionRevenue
+25/06/2017,FALSE,google,organic,,California,24,4,1,15990000
+25/06/2017,TRUE,google,organic,,California,37,15,0,0
+25/06/2017,TRUE,google,organic,,Texas,12,6,0,0
+25/06/2017,FALSE,google,organic,,New York,9,2,0,0
+25/06/2017,FALSE,(direct),(none),,not available in demo dataset,32,10,0,0
+25/06/2017,FALSE,google,cpc,,not available in demo dataset,24,13,0,0
+25/06/2017,FALSE,google,cpc,,New York,4,2,0,0
+25/06/2017,TRUE,google,cpc,,not available in demo dataset,40,19,0,0
+25/06/2017,FALSE,(direct),(none),/,not available in demo dataset,6,1,0,0
+25/06/2017,TRUE,blog.golang.org,referral,/gopher,not available in demo dataset,1,1,0,0
+25/06/2017,TRUE,Partners,affiliate,,Texas,1,1,0,0
+25/06/2017,FALSE,Partners,affiliate,,not available in demo dataset,3,2,0,0
+25/06/2017,TRUE,google,cpc,,New York,2,1,0,0
+25/06/2017,TRUE,google,cpc,,California,9,2,0,0
+25/06/2017,TRUE,(direct),(none),,Illinois,2,2,0,0
+25/06/2017,TRUE,(direct),(none),,Georgia,3,3,0,0
+25/06/2017,TRUE,(direct),(none),,Washington,1,1,0,0
+25/06/2017,TRUE,(direct),(none),,Massachusetts,3,2,0,0
+25/06/2017,FALSE,google,organic,,Texas,1,0,0,0
+25/06/2017,FALSE,(direct),(none),,Pennsylvania,1,0,0,0
+25/06/2017,FALSE,google,organic,,Colorado,1,0,0,0
+25/06/2017,FALSE,dfa,cpm,,not available in demo dataset,1,0,0,0
+25/06/2017,TRUE,youtube.com,referral,/yt/about/,not available in demo dataset,4,4,0,0
+25/06/2017,FALSE,youtube.com,referral,/yt/about/,not available in demo dataset,8,7,0,0
+25/06/2017,FALSE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,5,4,0,0
+25/06/2017,TRUE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,1,1,0,0
+25/06/2017,TRUE,youtube.com,referral,/yt/about/press/,not available in demo dataset,1,1,0,0
+25/06/2017,FALSE,facebook.com,referral,/,not available in demo dataset,14,7,0,0
+25/06/2017,TRUE,m.facebook.com,referral,/,Georgia,1,1,0,0
+25/06/2017,TRUE,facebook.com,referral,/,not available in demo dataset,2,1,0,0
+25/06/2017,TRUE,m.facebook.com,referral,/,Illinois,2,1,0,0
+25/06/2017,TRUE,google,cpc,,Colorado,2,1,0,0
+25/06/2017,FALSE,(direct),(none),/,California,15,3,0,0
+25/06/2017,TRUE,(direct),(none),,New York,1,1,0,0
+25/06/2017,FALSE,docs.google.com,referral,/document/d/10s8J8C00_5DuUR1NFsR9jpUzR2uihBVg8Wv5rRY9AfQ/edit,California,1,1,0,0
+25/06/2017,TRUE,google,organic,,Massachusetts,5,2,0,0
+25/06/2017,FALSE,search.xfinity.com,referral,/,not available in demo dataset,1,1,0,0
+25/06/2017,FALSE,google,organic,,Massachusetts,1,1,0,0
+25/06/2017,TRUE,google,organic,,Pennsylvania,3,1,0,0
+25/06/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,Texas,2,2,0,0
+25/06/2017,TRUE,(direct),(none),,Colorado,2,1,0,0
+25/06/2017,TRUE,Partners,affiliate,,not available in demo dataset,1,0,0,0
+25/06/2017,FALSE,(direct),(none),,New York,1,0,0,0
+25/06/2017,FALSE,youtube.com,referral,/yt/about/press/,not available in demo dataset,4,3,0,0
+25/06/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Illinois,1,1,0,0
+25/06/2017,TRUE,m.facebook.com,referral,/,not available in demo dataset,70,38,0,0
+25/06/2017,TRUE,m.facebook.com,referral,/,Washington,3,3,0,0
+25/06/2017,TRUE,m.facebook.com,referral,/,New York,5,2,0,0
+25/06/2017,TRUE,m.facebook.com,referral,/,California,7,2,0,0
+25/06/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,not available in demo dataset,1,0,0,0
+25/06/2017,TRUE,youtube.com,referral,/intl/eu/yt/about/press/,not available in demo dataset,1,0,0,0
+25/06/2017,TRUE,youtube.com,referral,/yt/about/copyright/,Texas,1,0,0,0
+25/06/2017,FALSE,(direct),(none),,(not set),8,7,0,0
+25/06/2017,TRUE,(direct),(none),,(not set),7,7,0,0
+25/06/2017,TRUE,google,organic,,not available in demo dataset,173,90,0,0
+25/06/2017,TRUE,(direct),(none),,California,21,11,0,0
+25/06/2017,FALSE,google,organic,,not available in demo dataset,125,58,2,84550000
+25/06/2017,TRUE,(direct),(none),,not available in demo dataset,48,29,0,0
+25/06/2017,TRUE,baidu,organic,,Colorado,1,1,0,0
+25/06/2017,FALSE,(direct),(none),,Istanbul,1,1,0,0
+25/06/2017,FALSE,(direct),(none),,California,10,3,0,0
+25/06/2017,TRUE,google,cpc,,Illinois,3,3,0,0
+25/06/2017,TRUE,google,cpc,,Texas,1,1,0,0
+25/06/2017,FALSE,analytics.google.com,referral,/analytics/web/,New York,2,2,0,0
+25/06/2017,TRUE,google,organic,,New York,8,6,0,0
+25/06/2017,TRUE,google,organic,,(not set),2,1,0,0
+25/06/2017,TRUE,google,organic,,Illinois,7,5,0,0
+25/06/2017,TRUE,google,organic,,Washington,4,2,0,0
+25/06/2017,FALSE,google,organic,,Washington,4,0,0,0
+25/06/2017,FALSE,(direct),(none),/offer/2145,California,2,0,0,0
+25/06/2017,TRUE,google,organic,,Georgia,4,0,0,0
+25/06/2017,TRUE,google,organic,,Colorado,2,0,0,0
+25/06/2017,FALSE,google,cpc,,Texas,1,0,0,0
+25/06/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,1,0,0,0
+25/06/2017,FALSE,google,organic,,Pennsylvania,1,0,0,0
+25/06/2017,FALSE,youtube.com,referral,/intl/en-GB/yt/about/,(not set),1,1,0,0
+25/06/2017,FALSE,youtube.com,referral,/intl/zh-CN/yt/about/press/,not available in demo dataset,1,1,0,0
+25/06/2017,TRUE,m.facebook.com,referral,/,Massachusetts,2,2,0,0
+25/06/2017,FALSE,l.facebook.com,referral,/l.php,not available in demo dataset,1,1,0,0
+25/06/2017,TRUE,m.facebook.com,referral,/,Texas,1,1,0,0
+25/06/2017,FALSE,facebook.com,referral,/,New York,1,1,0,0
+25/06/2017,TRUE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,not available in demo dataset,1,0,0,0
+02/07/2017,FALSE,outlook.live.com,referral,/,not available in demo dataset,3,3,0,0
+02/07/2017,TRUE,(direct),(none),,(not set),48,47,0,0
+02/07/2017,TRUE,google,organic,,Illinois,37,14,0,0
+02/07/2017,FALSE,google,organic,,New York,70,35,2,73970000
+02/07/2017,FALSE,(direct),(none),/,not available in demo dataset,111,21,13,1847920000
+02/07/2017,TRUE,google,cpc,,Texas,4,1,0,0
+02/07/2017,FALSE,google,cpc,,not available in demo dataset,109,42,0,0
+02/07/2017,TRUE,(direct),(none),,New York,57,32,0,0
+02/07/2017,FALSE,(direct),(none),/offer/2145,not available in demo dataset,12,3,0,0
+02/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,not available in demo dataset,32,21,0,0
+02/07/2017,TRUE,google,organic,,Texas,52,24,2,34980000
+02/07/2017,FALSE,dfa,cpm,,not available in demo dataset,26,9,1,21190000
+02/07/2017,FALSE,search.xfinity.com,referral,/,not available in demo dataset,3,3,0,0
+02/07/2017,TRUE,google,cpc,,New York,9,4,0,0
+02/07/2017,FALSE,google,organic,,Washington,18,3,0,0
+02/07/2017,FALSE,Partners,affiliate,,not available in demo dataset,41,23,0,0
+02/07/2017,FALSE,productforums.google.com,referral,/forum/,not available in demo dataset,2,1,0,0
+02/07/2017,FALSE,dfa,cpm,,(not set),1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,California,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/el/yt/about/,Washington,1,1,0,0
+02/07/2017,TRUE,m.facebook.com,referral,/,not available in demo dataset,61,44,1,5990000
+02/07/2017,FALSE,youtube.com,referral,/intl/is/yt/about/press/,Washington,2,0,0,0
+02/07/2017,TRUE,google,organic,,Tennessee,1,1,0,0
+02/07/2017,TRUE,blog.golang.org,referral,/gopher,not available in demo dataset,2,2,0,0
+02/07/2017,FALSE,Partners,affiliate,,New York,9,6,1,242850000
+02/07/2017,FALSE,Partners,affiliate,,California,16,7,0,0
+02/07/2017,FALSE,(direct),(none),/,Washington,37,8,4,348310000
+02/07/2017,FALSE,(direct),(none),/offer/2145,Texas,1,1,0,0
+02/07/2017,FALSE,outlook.live.com,referral,/,Tennessee,1,1,0,0
+02/07/2017,TRUE,google,organic,,Pennsylvania,2,2,0,0
+02/07/2017,TRUE,google,organic,,Massachusetts,5,4,0,0
+02/07/2017,FALSE,google,organic,,Pennsylvania,7,3,0,0
+02/07/2017,FALSE,google,organic,,Massachusetts,13,2,0,0
+02/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,California,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/,Massachusetts,13,1,1,59970000
+02/07/2017,FALSE,yahoo,organic,,not available in demo dataset,4,0,0,0
+02/07/2017,FALSE,google,cpm,,Texas,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/,Texas,7,0,1,55610000
+02/07/2017,FALSE,docs.google.com,referral,/document/d/10s8J8C00_5DuUR1NFsR9jpUzR2uihBVg8Wv5rRY9AfQ/edit,California,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/,Georgia,4,0,2,103170000
+02/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,Tennessee,1,0,0,0
+02/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,Arizona,1,0,0,0
+02/07/2017,FALSE,arstechnica.com,referral,/gadgets/2015/03/google-launches-the-google-store-a-new-second-place-to-buy-hardware/,Illinois,1,0,0,0
+02/07/2017,FALSE,docs.google.com,referral,/document/d/10s8J8C00_5DuUR1NFsR9jpUzR2uihBVg8Wv5rRY9AfQ/preview,California,1,0,0,0
+02/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/incentives-amounts,California,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/watch,not available in demo dataset,22,13,0,0
+02/07/2017,FALSE,youtube.com,referral,/,District of Columbia,3,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/mobile,Tennessee,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/fr-CA/yt/about/copyright/,Washington,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/,Tennessee,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/press/,California,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Arizona,1,1,0,0
+02/07/2017,FALSE,facebook.com,referral,/,not available in demo dataset,11,6,0,0
+02/07/2017,TRUE,m.youtube.com,referral,/watch,not available in demo dataset,5,2,0,0
+02/07/2017,TRUE,quora.com,referral,/Where-can-I-buy-a-stuffed-Go-language-gopher-mascot-online,not available in demo dataset,3,0,0,0
+02/07/2017,TRUE,m.facebook.com,referral,/,Georgia,2,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/watch,Pennsylvania,1,0,0,0
+02/07/2017,FALSE,l.facebook.com,referral,/l.php,Texas,1,0,0,0
+02/07/2017,TRUE,(direct),(none),,Colorado,8,6,0,0
+02/07/2017,FALSE,(direct),(none),/,New Jersey,1,1,0,0
+02/07/2017,FALSE,Partners,affiliate,,Texas,2,2,0,0
+02/07/2017,TRUE,(direct),(none),,New Jersey,3,2,0,0
+02/07/2017,TRUE,(direct),(none),,Washington,8,1,0,0
+02/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Colorado,1,1,0,0
+02/07/2017,FALSE,phandroid.com,referral,/2015/03/11/google-merch-store-new-url/,New York,1,1,0,0
+02/07/2017,TRUE,(direct),(none),,District of Columbia,7,3,1,40380000
+02/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Illinois,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/offer/2145,New York,2,0,0,0
+02/07/2017,FALSE,(direct),(none),/offer/2145,Oregon,1,0,0,0
+02/07/2017,TRUE,(direct),(none),,Oregon,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/,Michigan,5,2,0,0
+02/07/2017,FALSE,Partners,affiliate,,Michigan,1,0,0,0
+02/07/2017,TRUE,m.youtube.com,referral,/watch,New York,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/,Oregon,2,2,0,0
+02/07/2017,TRUE,youtube.com,referral,/,Florida,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/is/yt/about/,Washington,1,1,0,0
+02/07/2017,FALSE,facebook.com,referral,/,California,2,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/,Colorado,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/,New Jersey,1,0,0,0
+02/07/2017,TRUE,Partners,affiliate,,Washington,1,1,0,0
+02/07/2017,TRUE,google,cpc,,Illinois,1,1,0,0
+02/07/2017,FALSE,baidu,organic,,California,1,0,0,0
+02/07/2017,FALSE,google,cpc,,District of Columbia,1,0,0,0
+02/07/2017,FALSE,google,organic,,Arizona,1,0,0,0
+02/07/2017,TRUE,(direct),(none),,Arizona,1,0,0,0
+02/07/2017,FALSE,blog.golang.org,referral,/gopher,California,4,0,0,0
+02/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,Massachusetts,1,1,0,0
+02/07/2017,FALSE,google,cpc,,Washington,2,1,0,0
+02/07/2017,FALSE,(direct),(none),,Virginia,10,10,0,0
+02/07/2017,FALSE,Partners,affiliate,,(not set),1,0,0,0
+02/07/2017,FALSE,(direct),(none),/,England,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/,Ontario,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/policies/,not available in demo dataset,1,0,0,0
+02/07/2017,TRUE,google,cpc,,Colorado,2,1,0,0
+02/07/2017,FALSE,Partners,affiliate,,Illinois,1,1,0,0
+02/07/2017,FALSE,google,organic,,Oregon,2,2,0,0
+02/07/2017,TRUE,dfa,cpm,,Oregon,1,1,0,0
+02/07/2017,TRUE,google,organic,,Oregon,1,1,0,0
+02/07/2017,TRUE,bing,organic,,not available in demo dataset,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/es-419/yt/about/press/,Washington,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/zh-HK/yt/about/copyright/,Washington,1,0,0,0
+02/07/2017,FALSE,(direct),cpm,,not available in demo dataset,1,1,0,0
+02/07/2017,TRUE,google,organic,,Michigan,3,1,0,0
+02/07/2017,TRUE,Partners,affiliate,,Illinois,1,0,0,0
+02/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/incentives-amounts,New York,1,0,0,0
+02/07/2017,FALSE,(direct),(none),,Nevada,2,0,0,0
+02/07/2017,FALSE,google,organic,,Missouri,1,0,0,0
+02/07/2017,TRUE,google,cpm,,not available in demo dataset,1,0,0,0
+02/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store,California,1,0,0,0
+02/07/2017,TRUE,lm.facebook.com,referral,/l.php,not available in demo dataset,1,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,California,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/te/yt/about/,Washington,1,1,0,0
+02/07/2017,FALSE,plus.google.com,referral,/,California,1,0,0,0
+02/07/2017,FALSE,google,organic,,California,242,82,9,1333810000
+02/07/2017,TRUE,(direct),(none),,not available in demo dataset,603,333,1,43480000
+02/07/2017,TRUE,google,organic,,New York,48,21,2,65970000
+02/07/2017,FALSE,google,cpc,,California,35,11,0,0
+02/07/2017,FALSE,(direct),(none),,New York,94,41,3,260020000
+02/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,California,1,1,0,0
+02/07/2017,FALSE,blog.golang.org,referral,/gopher,not available in demo dataset,2,2,0,0
+02/07/2017,FALSE,(direct),(none),/offer/2145,California,28,11,1,69140000
+02/07/2017,TRUE,dfa,cpm,,not available in demo dataset,13,8,0,0
+02/07/2017,FALSE,(direct),(none),/,New York,103,23,13,1722460000
+02/07/2017,FALSE,google,organic,,Texas,31,6,2,289610000
+02/07/2017,TRUE,google,organic,,Washington,13,3,0,0
+02/07/2017,TRUE,google.com,referral,/intl/es/permissions/using-the-logo.html,not available in demo dataset,1,0,0,0
+02/07/2017,FALSE,(direct),(none),,Texas,46,9,1,102960000
+02/07/2017,FALSE,baidu,organic,,not available in demo dataset,3,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/,not available in demo dataset,19,8,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,40,31,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/,not available in demo dataset,43,31,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/press/,(not set),1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/uk/yt/about/,Washington,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/press/,not available in demo dataset,18,12,0,0
+02/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,California,5,2,0,0
+02/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,not available in demo dataset,11,3,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,13,4,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/press/,not available in demo dataset,8,3,0,0
+02/07/2017,FALSE,google,organic,,Florida,4,2,0,0
+02/07/2017,FALSE,bing,organic,,California,3,1,0,0
+02/07/2017,FALSE,phandroid.com,referral,/2015/03/11/google-merch-store-new-url/,not available in demo dataset,1,1,0,0
+02/07/2017,TRUE,(direct),(none),,Texas,33,21,0,0
+02/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,New York,11,7,0,0
+02/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,California,1,1,0,0
+02/07/2017,TRUE,google,cpc,,Arizona,4,3,0,0
+02/07/2017,TRUE,google,organic,,Georgia,12,7,0,0
+02/07/2017,FALSE,(direct),(none),,Pennsylvania,10,4,0,0
+02/07/2017,TRUE,google,organic,,District of Columbia,5,2,0,0
+02/07/2017,TRUE,kik.com,referral,/,California,1,1,0,0
+02/07/2017,FALSE,google,organic,,Tennessee,2,1,0,0
+02/07/2017,TRUE,google,cpc,,Pennsylvania,1,0,0,0
+02/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Washington,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/offer/2145,Massachusetts,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/,District of Columbia,3,1,0,0
+02/07/2017,TRUE,(direct),(none),,Tennessee,2,0,0,0
+02/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,Texas,1,0,0,0
+02/07/2017,FALSE,(direct),(none),,Florida,5,2,0,0
+02/07/2017,TRUE,google,cpm,,California,1,0,0,0
+02/07/2017,TRUE,mail.google.com,referral,/mail/mu/mp/336/,Texas,1,0,0,0
+02/07/2017,FALSE,dfa,cpm,,New York,3,1,0,0
+02/07/2017,TRUE,support.google.com,referral,/maps/forum/AAAAQuUrST8rtQMhvDlS0Y/,not available in demo dataset,2,0,0,0
+02/07/2017,FALSE,l.messenger.com,referral,/l.php,California,1,0,0,0
+02/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Texas,2,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/watch,Texas,3,2,0,0
+02/07/2017,TRUE,youtube.com,referral,/mobile,Texas,4,4,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/et/yt/about/press/,Washington,1,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/advertise/index-new.html,not available in demo dataset,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Pennsylvania,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/en/yt/about/brand-resources/,Washington,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/bn/yt/about/press/,Washington,1,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/mobile,Massachusetts,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/sl/yt/about/,Washington,1,0,0,0
+02/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,Texas,1,0,0,0
+02/07/2017,FALSE,reddit.com,referral,/r/chromeos/comments/39boco/looking_for_chrome_sticker/,not available in demo dataset,2,0,0,0
+02/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,California,1,0,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/,New York,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/Rewards/Products/Details.aspx,California,2,1,0,0
+02/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,6,3,0,0
+02/07/2017,FALSE,(direct),(none),/offer/2145,Washington,2,2,0,0
+02/07/2017,FALSE,outlook.live.com,referral,/,California,2,1,1,32990000
+02/07/2017,FALSE,(direct),(none),,District of Columbia,5,1,1,29680000
+02/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,Texas,3,2,0,0
+02/07/2017,FALSE,(direct),(none),,Georgia,2,0,0,0
+02/07/2017,FALSE,(direct),(none),/pagead/ads,California,1,0,0,0
+02/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,California,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/,Illinois,3,3,0,0
+02/07/2017,FALSE,youtube.com,referral,/,Texas,2,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/mobile,California,4,2,0,0
+02/07/2017,TRUE,youtube.com,referral,/,Michigan,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/watch,New York,2,1,0,0
+02/07/2017,TRUE,m.youtube.com,referral,/watch,Georgia,1,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/experiences/,not available in demo dataset,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/sv/yt/about/copyright/,Washington,1,1,0,0
+02/07/2017,TRUE,m.facebook.com,referral,/,California,5,3,0,0
+02/07/2017,FALSE,youtube.com,referral,/,Florida,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/fr-CA/yt/about/press/,Washington,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/fr/yt/about/copyright/,Washington,2,0,0,0
+02/07/2017,FALSE,google,organic,,District of Columbia,3,1,0,0
+02/07/2017,TRUE,google,organic,,Colorado,10,4,1,46980000
+02/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,Texas,1,0,0,0
+02/07/2017,FALSE,google,organic,,Colorado,6,1,2,80960000
+02/07/2017,TRUE,google,cpc,,Georgia,2,0,0,0
+02/07/2017,FALSE,blog.golang.org,referral,/gopher,Texas,1,0,0,0
+02/07/2017,FALSE,google,organic,,Nevada,3,1,0,0
+02/07/2017,TRUE,(direct),(none),,Nevada,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,(not set),3,3,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/brand-resources/,Texas,1,1,0,0
+02/07/2017,TRUE,m.facebook.com,referral,/,Texas,6,5,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/,Texas,1,0,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/,Texas,2,0,0,0
+02/07/2017,FALSE,(direct),(none),/pagead/gadgets/teracent_product_template_V1/MinimalCarousel_1a-2_300x600.html,New York,1,1,0,0
+02/07/2017,FALSE,optimize.google.com,referral,/optimize/opt-launch.html,not available in demo dataset,3,1,0,0
+02/07/2017,FALSE,optimize.google.com,referral,/optimize/opt-launch.html,California,5,2,0,0
+02/07/2017,FALSE,google,organic,,Georgia,2,0,1,24970000
+02/07/2017,FALSE,google,cpc,,Massachusetts,1,0,0,0
+02/07/2017,FALSE,mail.google.com,referral,/mail/ca/u/0/,not available in demo dataset,1,0,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/press/,California,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/fi/yt/about/press/,Washington,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/zh-CN/yt/about/,(not set),1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/no/yt/about/,Washington,1,1,0,0
+02/07/2017,TRUE,lm.facebook.com,referral,/l.php,California,2,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Virginia,1,0,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/,Colorado,1,0,0,0
+02/07/2017,FALSE,baidu,organic,,(not set),2,1,0,0
+02/07/2017,FALSE,google,cpc,,Colorado,4,2,1,38980000
+02/07/2017,FALSE,youtube.com,referral,/intl/en-GB/yt/about/,California,2,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Illinois,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/pt-BR/yt/about/,Washington,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/th/yt/about/,not available in demo dataset,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/ta/yt/about/,Washington,1,0,0,0
+02/07/2017,FALSE,Partners,affiliate,,Massachusetts,3,2,0,0
+02/07/2017,FALSE,(direct),(none),,Missouri,1,1,0,0
+02/07/2017,TRUE,google,organic,,Missouri,4,2,0,0
+02/07/2017,FALSE,(direct),(none),/Client.html,Texas,1,1,0,0
+02/07/2017,TRUE,(direct),(none),/,not available in demo dataset,1,0,1,22990000
+02/07/2017,FALSE,youtube.com,referral,/intl/it/yt/about/,Washington,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/,California,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/bg/yt/about/press/,Washington,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Texas,1,1,0,0
+02/07/2017,FALSE,google,organic,,not available in demo dataset,760,305,10,1158900000
+02/07/2017,TRUE,google,organic,,not available in demo dataset,833,407,4,174940000
+02/07/2017,FALSE,(direct),(none),,(not set),68,65,0,0
+02/07/2017,TRUE,google,organic,,California,194,63,1,47960000
+02/07/2017,FALSE,(direct),(none),,California,198,65,8,5229070000
+02/07/2017,FALSE,google,organic,,Illinois,12,5,0,0
+02/07/2017,TRUE,(direct),(none),,California,161,71,0,0
+02/07/2017,TRUE,google,cpc,,not available in demo dataset,184,88,0,0
+02/07/2017,FALSE,(direct),(none),,not available in demo dataset,402,167,15,1806610000
+02/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,10,6,0,0
+02/07/2017,TRUE,google,cpc,,California,53,19,1,37480000
+02/07/2017,FALSE,(direct),(none),/,California,444,61,31,2831010000
+02/07/2017,TRUE,(direct),(none),,Illinois,31,22,0,0
+02/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,not available in demo dataset,9,3,0,0
+02/07/2017,FALSE,google,organic,,(not set),14,6,0,0
+02/07/2017,TRUE,Partners,affiliate,,California,4,0,0,0
+02/07/2017,FALSE,google,cpc,,New York,4,2,0,0
+02/07/2017,FALSE,(direct),(none),,Washington,18,5,3,177070000
+02/07/2017,FALSE,youtube.com,referral,/intl/zh-CN/yt/about/,not available in demo dataset,2,2,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/,Washington,16,11,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/it/yt/about/brand-resources/,Washington,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/,(not set),2,2,0,0
+02/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4zk0qy/in_serious_need_of_some_gopher_golang_swag/,not available in demo dataset,1,1,0,0
+02/07/2017,FALSE,l.facebook.com,referral,/l.php,not available in demo dataset,1,1,0,0
+02/07/2017,TRUE,m.facebook.com,referral,/,New York,4,3,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/et/yt/about/,Washington,1,0,0,0
+02/07/2017,FALSE,google,organic,,Victoria,2,1,0,0
+02/07/2017,FALSE,duckduckgo.com,referral,/,not available in demo dataset,1,1,0,0
+02/07/2017,FALSE,Partners,affiliate,,Georgia,1,1,0,0
+02/07/2017,TRUE,(direct),(none),,Georgia,16,10,0,0
+02/07/2017,TRUE,(direct),(none),,Florida,5,2,0,0
+02/07/2017,TRUE,Partners,affiliate,,not available in demo dataset,12,4,0,0
+02/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,Illinois,1,1,0,0
+02/07/2017,TRUE,google,organic,,Arizona,5,4,0,0
+02/07/2017,FALSE,Partners,affiliate,,Arizona,1,1,0,0
+02/07/2017,TRUE,google,organic,,Florida,2,1,0,0
+02/07/2017,FALSE,google,cpm,,California,2,2,0,0
+02/07/2017,TRUE,google,cpc,,District of Columbia,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/,Pennsylvania,8,0,2,140890000
+02/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,New York,3,0,0,0
+02/07/2017,TRUE,baidu,organic,,(not set),1,0,0,0
+02/07/2017,FALSE,google,cpc,,Texas,5,2,0,0
+02/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,California,7,2,0,0
+02/07/2017,FALSE,(direct),(none),,Illinois,7,2,1,84990000
+02/07/2017,TRUE,(direct),(none),,Pennsylvania,5,4,0,0
+02/07/2017,FALSE,bing,organic,,not available in demo dataset,11,2,0,0
+02/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,California,6,2,0,0
+02/07/2017,FALSE,(direct),(none),/,Illinois,21,2,4,516670000
+02/07/2017,FALSE,sites.google.com,referral,/corp/google.com/deepmind6ps/perks-activities/swag,California,1,0,0,0
+02/07/2017,TRUE,(direct),(none),,Massachusetts,5,3,0,0
+02/07/2017,FALSE,Partners,affiliate,,Washington,3,1,0,0
+02/07/2017,FALSE,(direct),(none),/optimize/opt-launch.html,California,1,0,0,0
+02/07/2017,FALSE,google,cpm,,New York,2,0,0,0
+02/07/2017,TRUE,youtube.com,referral,/mobile,not available in demo dataset,57,26,0,0
+02/07/2017,FALSE,youtube.com,referral,/,not available in demo dataset,72,32,0,0
+02/07/2017,FALSE,youtube.com,referral,/,California,10,7,0,0
+02/07/2017,TRUE,youtube.com,referral,/,not available in demo dataset,21,15,0,0
+02/07/2017,FALSE,youtube.com,referral,/,New York,7,3,0,0
+02/07/2017,TRUE,youtube.com,referral,/,Texas,4,3,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,New York,2,2,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/fi/yt/about/copyright/,Washington,2,2,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/cs/yt/about/copyright/,Washington,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Washington,14,8,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Washington,12,5,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/ko/yt/about/press/,California,1,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/,New York,3,2,0,0
+02/07/2017,TRUE,youtube.com,referral,/,California,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/el/yt/about/press/,Washington,1,0,0,0
+02/07/2017,FALSE,(direct),(none),,Michigan,5,3,0,0
+02/07/2017,FALSE,sites.google.com,referral,/a/google.com/analyticsdemo/,California,1,1,0,0
+02/07/2017,TRUE,(direct),(none),,Michigan,3,2,0,0
+02/07/2017,FALSE,(direct),(none),/offer/2145,Pennsylvania,1,1,0,0
+02/07/2017,TRUE,mail.google.com,referral,/mail/mu/mp/656/,New York,2,1,0,0
+02/07/2017,FALSE,dfa,cpm,,California,6,3,0,0
+02/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,New York,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/pagead/gadgets/teracent_product_template_V1/MinimalCarousel_1a-2_300x250.html,New York,1,0,0,0
+02/07/2017,FALSE,(direct),(none),,New Jersey,1,0,0,0
+02/07/2017,FALSE,(direct),(none),,Massachusetts,3,0,0,0
+02/07/2017,FALSE,(direct),(none),,Oregon,2,0,0,0
+02/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store/mountain-view-store,California,1,0,0,0
+02/07/2017,TRUE,(direct),(none),,Community of Madrid,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/,Colorado,3,0,1,174680000
+02/07/2017,FALSE,reddit.com,referral,/r/golang/comments/2u2n8q/gopher_soft_toy/,(not set),1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/brand-resources/,not available in demo dataset,2,2,0,0
+02/07/2017,TRUE,youtube.com,referral,/intl/tr/yt/about/,not available in demo dataset,1,1,0,0
+02/07/2017,FALSE,t.co,referral,/Lw3hzUjkK9,New York,1,1,0,0
+02/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,Michigan,1,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/mobile,New York,5,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/watch,not available in demo dataset,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/es/yt/about/copyright/,not available in demo dataset,1,0,0,0
+02/07/2017,FALSE,groups.google.com,referral,/forum/,not available in demo dataset,2,0,0,0
+02/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,(not set),1,0,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/,Michigan,1,0,0,0
+02/07/2017,TRUE,google,organic,,Nevada,2,0,0,0
+02/07/2017,TRUE,google,cpc,,Nevada,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/,Nevada,1,0,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,Texas,1,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/,California,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/th/yt/about/copyright/,not available in demo dataset,1,1,0,0
+02/07/2017,TRUE,reddit.com,referral,/r/HomeImprovement/comments/5acczs/how_to_temporarily_screen_an_apartment_balcony_to/,not available in demo dataset,1,1,0,0
+02/07/2017,TRUE,m.facebook.com,referral,/,District of Columbia,2,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/intl/vi/yt/about/,not available in demo dataset,1,0,0,0
+02/07/2017,TRUE,m.facebook.com,referral,/,Washington,1,0,0,0
+02/07/2017,FALSE,t.co,referral,/snMoq7Tsnm,not available in demo dataset,2,0,0,0
+02/07/2017,TRUE,baidu,organic,,California,1,1,0,0
+02/07/2017,TRUE,google,organic,,Ontario,1,1,0,0
+02/07/2017,FALSE,(direct),(none),/pagead/gadgets/dynamic_in_page_V1/Responsive_FBC_GpaSingleIframe.html,New York,1,0,0,0
+02/07/2017,TRUE,dfa,cpm,,California,2,1,0,0
+02/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store/mountain-view-store,not available in demo dataset,1,0,0,0
+02/07/2017,TRUE,youtube.com,referral,/intl/sv/yt/about/copyright/,not available in demo dataset,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/yt/about/,Illinois,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/zh-CN/yt/about/experiences/,(not set),1,1,0,0
+02/07/2017,TRUE,youtube.com,referral,/yt/about/brand-resources/,not available in demo dataset,1,0,0,0
+02/07/2017,TRUE,google,organic,,Mexico City,2,1,0,0
+02/07/2017,FALSE,calendar.google.com,referral,/calendar/r/week/2017/7/8,not available in demo dataset,2,1,1,55240000
+02/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,Texas,1,0,0,0
+02/07/2017,FALSE,google,organic,,Michigan,1,0,0,0
+02/07/2017,TRUE,support.google.com,referral,/maps/forum/AAAAQuUrST8rtQMhvDlS0Y/,California,2,0,0,0
+02/07/2017,TRUE,baidu,organic,,not available in demo dataset,1,0,0,0
+02/07/2017,FALSE,(direct),(none),/offer/2145,Illinois,1,0,2,61380000
+02/07/2017,TRUE,youtube.com,referral,/yt/about/experiences/,Texas,1,1,0,0
+02/07/2017,TRUE,reddit.com,referral,/r/HomeImprovement/comments/5acczs/how_to_temporarily_screen_an_apartment_balcony_to/,Texas,1,1,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/vi/yt/about/copyright/,Washington,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/pl/yt/about/,Washington,1,0,0,0
+02/07/2017,FALSE,facebook.com,referral,/,New York,1,0,0,0
+02/07/2017,FALSE,youtube.com,referral,/intl/en-GB/yt/about/press/,Washington,1,0,0,0
+09/07/2017,TRUE,(direct),(none),,(not set),79,79,0,0
+09/07/2017,FALSE,(direct),(none),,not available in demo dataset,333,136,11,14955670000
+09/07/2017,FALSE,google,cpc,,California,49,14,4,354340000
+09/07/2017,FALSE,google,cpc,,Florida,7,4,0,0
+09/07/2017,TRUE,google,organic,,Kentucky,9,7,0,0
+09/07/2017,TRUE,google,cpc,,not available in demo dataset,102,48,1,62030000
+09/07/2017,FALSE,google,cpm,,Washington,1,1,0,0
+09/07/2017,TRUE,Partners,affiliate,,not available in demo dataset,38,14,0,0
+09/07/2017,FALSE,(direct),(none),,Michigan,10,2,0,0
+09/07/2017,FALSE,bing,organic,,not available in demo dataset,10,1,1,31980000
+09/07/2017,TRUE,Partners,affiliate,,California,9,3,1,14000000
+09/07/2017,FALSE,Partners,affiliate,,Michigan,1,1,0,0
+09/07/2017,FALSE,(direct),(none),/site/welcomehome/welcomehomehomepage,California,1,1,0,0
+09/07/2017,FALSE,dfa,cpm,,California,13,8,0,0
+09/07/2017,TRUE,(direct),(none),,Massachusetts,3,2,0,0
+09/07/2017,FALSE,dfa,cpm,,New York,1,1,0,0
+09/07/2017,FALSE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,California,1,1,0,0
+09/07/2017,TRUE,google,organic,,District of Columbia,10,7,0,0
+09/07/2017,FALSE,google,cpc,,Georgia,1,0,0,0
+09/07/2017,TRUE,google,organic,,Illinois,28,10,0,0
+09/07/2017,FALSE,google,cpm,,New York,5,1,0,0
+09/07/2017,FALSE,google,cpc,,Kentucky,3,0,0,0
+09/07/2017,TRUE,Partners,affiliate,,Illinois,1,0,0,0
+09/07/2017,FALSE,(direct),(none),/,Michigan,35,5,6,571810000
+09/07/2017,TRUE,yahoo,organic,,California,1,0,0,0
+09/07/2017,FALSE,google,organic,,Tennessee,2,1,0,0
+09/07/2017,FALSE,bing,organic,,Illinois,1,0,0,0
+09/07/2017,FALSE,(direct),(none),/,England,1,0,0,0
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,California,14,6,1,108170000
+09/07/2017,TRUE,youtube.com,referral,/mobile,not available in demo dataset,30,14,0,0
+09/07/2017,TRUE,youtube.com,referral,/,Washington,1,1,0,0
+09/07/2017,TRUE,m.youtube.com,referral,/watch,not available in demo dataset,2,2,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Washington,12,9,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/,Texas,1,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/press/,California,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,(not set),2,2,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/hi/yt/about/,Washington,1,1,0,0
+09/07/2017,TRUE,m.facebook.com,referral,/,not available in demo dataset,8,3,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/is/yt/about/,Washington,1,0,0,0
+09/07/2017,FALSE,facebook.com,referral,/,Washington,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/,California,4,1,0,0
+09/07/2017,FALSE,google,organic,,Michigan,7,3,0,0
+09/07/2017,FALSE,google,organic,,Arizona,4,2,0,0
+09/07/2017,FALSE,(direct),(none),/offer/2145,New York,3,2,0,0
+09/07/2017,FALSE,moodle.aurora.edu,referral,/moodle/mod/forum/discuss.php,not available in demo dataset,1,1,0,0
+09/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,(not set),2,1,0,0
+09/07/2017,TRUE,(direct),(none),,Arizona,2,1,0,0
+09/07/2017,TRUE,dfa,cpm,,Illinois,2,2,0,0
+09/07/2017,TRUE,dfa,cpm,,Michigan,1,1,0,0
+09/07/2017,TRUE,google,organic,,Arizona,9,4,1,33070000
+09/07/2017,FALSE,(direct),(none),/offer/2145,Massachusetts,1,0,0,0
+09/07/2017,FALSE,(direct),(none),/offer/2145,District of Columbia,1,0,0,0
+09/07/2017,TRUE,youtube.com,referral,/,Illinois,2,2,0,0
+09/07/2017,TRUE,youtube.com,referral,/,Texas,1,1,0,0
+09/07/2017,FALSE,reddit.com,referral,/r/askgaybros/comments/4pcpyv/hey_gay_bros_do_gay_bros_wear_gay_tshirts/,not available in demo dataset,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/ja/yt/about/brand-resources/,(not set),1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Florida,1,1,0,0
+09/07/2017,FALSE,reddit.com,referral,/r/HomeImprovement/comments/5acczs/how_to_temporarily_screen_an_apartment_balcony_to/,Pennsylvania,2,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/,District of Columbia,1,0,0,0
+09/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,New York,2,1,0,0
+09/07/2017,FALSE,facebook.com,referral,/,not available in demo dataset,4,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/iw/yt/about/copyright/,Washington,1,0,0,0
+09/07/2017,TRUE,m.youtube.com,referral,/watch,Kentucky,1,0,0,0
+09/07/2017,FALSE,google,organic,,Oregon,11,1,3,150730000
+09/07/2017,TRUE,google,cpm,,Karnataka,1,1,0,0
+09/07/2017,FALSE,(direct),(none),,Arizona,3,0,0,0
+09/07/2017,TRUE,(direct),(none),,Tel Aviv District,1,0,0,0
+09/07/2017,FALSE,(direct),(none),,Colorado,2,0,1,36000000
+09/07/2017,FALSE,mail.google.com,referral,/mail/ca/u/0/,Texas,1,0,1,53270000
+09/07/2017,TRUE,m.facebook.com,referral,/,(not set),3,3,0,0
+09/07/2017,FALSE,l.facebook.com,referral,/l.php,California,1,1,0,0
+09/07/2017,TRUE,quora.com,referral,/Where-can-I-buy-a-stuffed-Go-language-gopher-mascot-online,Colorado,2,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Colorado,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,California,2,0,0,0
+09/07/2017,FALSE,quora.com,referral,/Where-can-I-buy-a-stuffed-Go-language-gopher-mascot-online,Texas,1,0,0,0
+09/07/2017,FALSE,(direct),(none),/,Colorado,2,0,0,0
+09/07/2017,TRUE,m.facebook.com,referral,/,District of Columbia,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Texas,1,0,0,0
+09/07/2017,FALSE,online.fullsail.edu,referral,/class_sections/21425/modules/15631/activities/139557,not available in demo dataset,1,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/,New York,2,2,0,0
+09/07/2017,TRUE,youtube.com,referral,/mobile,New York,2,1,0,0
+09/07/2017,FALSE,(direct),(none),/Rewards/Products/Details.aspx,Georgia,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/tr/yt/about/copyright/,Washington,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/ms/yt/about/,Washington,1,1,0,0
+09/07/2017,TRUE,dfa,cpm,,Colorado,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/eu/yt/about/,Washington,1,0,0,0
+09/07/2017,FALSE,google,cpm,,not available in demo dataset,4,2,1,44490000
+09/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,California,3,3,0,0
+09/07/2017,FALSE,Partners,affiliate,,Texas,2,1,0,0
+09/07/2017,FALSE,blog.golang.org,referral,/gopher,California,2,1,0,0
+09/07/2017,TRUE,(direct),(none),,Masovian Voivodeship,2,2,0,0
+09/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,California,1,1,0,0
+09/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,California,2,0,0,0
+09/07/2017,TRUE,(direct),(none),,Michigan,1,0,0,0
+09/07/2017,FALSE,google,cpc,,Pennsylvania,2,0,0,0
+09/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/working-with-perks,Washington,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/ko/yt/about/brand-resources/,Washington,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/da/yt/about/press/,Washington,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/th/yt/about/,Washington,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/,District of Columbia,1,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/intl/es-419/yt/about/,not available in demo dataset,1,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,Texas,2,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,Georgia,1,1,0,0
+09/07/2017,TRUE,plus.url.google.com,referral,/mobileapp,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/cs/yt/about/,Washington,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/zh-TW/yt/about/,Washington,1,0,0,0
+09/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,New York,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/vi/yt/about/copyright/,Texas,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/en-GB/yt/about/press/,Washington,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/fil/yt/about/copyright/,Washington,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/es/yt/about/copyright/,Washington,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/pt-PT/yt/about/press/,Washington,1,0,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/experiences/,Texas,1,0,0,0
+09/07/2017,FALSE,google,organic,,Texas,43,18,4,270360000
+09/07/2017,FALSE,google,organic,,not available in demo dataset,1004,359,33,2452660000
+09/07/2017,FALSE,(direct),(none),,(not set),97,93,0,0
+09/07/2017,FALSE,(direct),(none),,Massachusetts,3,3,0,0
+09/07/2017,FALSE,google,organic,,Pennsylvania,6,2,0,0
+09/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,not available in demo dataset,1,1,0,0
+09/07/2017,TRUE,google,cpc,,California,62,14,0,0
+09/07/2017,TRUE,(direct),(none),,not available in demo dataset,390,230,2,128560000
+09/07/2017,TRUE,(direct),(none),,Georgia,11,5,0,0
+09/07/2017,TRUE,google,cpc,,Illinois,3,1,0,0
+09/07/2017,FALSE,(direct),(none),/,California,837,134,70,7213800000
+09/07/2017,FALSE,Partners,affiliate,,not available in demo dataset,81,31,0,0
+09/07/2017,TRUE,(direct),(none),,Washington,10,7,0,0
+09/07/2017,FALSE,(direct),(none),,Georgia,2,1,0,0
+09/07/2017,TRUE,(direct),(none),,Texas,28,18,1,19000000
+09/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,not available in demo dataset,34,20,0,0
+09/07/2017,FALSE,Partners,affiliate,,Washington,4,2,0,0
+09/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,8,5,0,0
+09/07/2017,FALSE,(direct),(none),,Washington,12,10,0,0
+09/07/2017,TRUE,google,organic,,Texas,64,32,1,45980000
+09/07/2017,TRUE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,Pennsylvania,1,1,0,0
+09/07/2017,TRUE,(direct),(none),,New York,40,31,0,0
+09/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Washington,11,3,0,0
+09/07/2017,FALSE,(direct),(none),,Illinois,12,6,0,0
+09/07/2017,FALSE,search.xfinity.com,referral,/,not available in demo dataset,1,1,0,0
+09/07/2017,FALSE,yahoo,organic,,Washington,1,1,0,0
+09/07/2017,FALSE,docs.google.com,referral,/document/d/10s8J8C00_5DuUR1NFsR9jpUzR2uihBVg8Wv5rRY9AfQ/preview,not available in demo dataset,2,1,0,0
+09/07/2017,FALSE,(direct),(none),/,District of Columbia,15,3,3,408600000
+09/07/2017,FALSE,google,organic,,Washington,25,7,1,26790000
+09/07/2017,FALSE,google,organic,,Florida,7,2,0,0
+09/07/2017,FALSE,(direct),(none),/offer/2145,not available in demo dataset,19,4,0,0
+09/07/2017,FALSE,(direct),(none),/offer/2145,California,39,9,0,0
+09/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,New York,1,0,0,0
+09/07/2017,FALSE,dfa,cpm,,Washington,1,0,0,0
+09/07/2017,TRUE,google,cpc,,New York,10,4,0,0
+09/07/2017,FALSE,google,cpc,,Tennessee,1,0,0,0
+09/07/2017,FALSE,(direct),(none),/,Pennsylvania,8,1,0,0
+09/07/2017,FALSE,(direct),(none),/offer/2145,Pennsylvania,1,0,0,0
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,Tennessee,1,0,0,0
+09/07/2017,TRUE,Partners,affiliate,,Texas,3,2,0,0
+09/07/2017,FALSE,optimize.google.com,referral,/optimize/opt-launch.html,California,3,0,0,0
+09/07/2017,FALSE,google,organic,,Virginia,4,1,0,0
+09/07/2017,TRUE,google,cpc,,Texas,7,3,1,47870000
+09/07/2017,TRUE,dfa,cpm,,Texas,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/,not available in demo dataset,20,14,0,0
+09/07/2017,TRUE,youtube.com,referral,/,not available in demo dataset,45,30,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/,not available in demo dataset,29,16,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/policies/,not available in demo dataset,2,2,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/press/,not available in demo dataset,14,9,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/ro/yt/about/,Washington,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/watch,not available in demo dataset,9,5,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/,not available in demo dataset,12,7,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,District of Columbia,3,3,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/vi/yt/about/press/,Washington,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/es-419/yt/about/press/,Washington,1,0,0,0
+09/07/2017,FALSE,facebook.com,referral,/,California,5,2,0,0
+09/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,California,2,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,New York,2,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/press/,not available in demo dataset,6,1,0,0
+09/07/2017,TRUE,m.facebook.com,referral,/,Illinois,1,0,0,0
+09/07/2017,TRUE,Partners,affiliate,,Arizona,3,2,0,0
+09/07/2017,TRUE,google,cpc,,District of Columbia,3,1,1,9990000
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store,California,1,0,0,0
+09/07/2017,FALSE,google,cpm,,Florida,1,0,0,0
+09/07/2017,FALSE,outlook.live.com,referral,/,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,google,cpm,,Michigan,5,1,1,22990000
+09/07/2017,FALSE,(direct),(none),/Rewards/Products/Details.aspx,not available in demo dataset,3,0,0,0
+09/07/2017,FALSE,yahoo,organic,,not available in demo dataset,5,0,1,24680000
+09/07/2017,TRUE,google,cpc,,Massachusetts,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/pl/yt/about/,Washington,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/,Arizona,2,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/,Kentucky,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/,Florida,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/press/,California,4,1,0,0
+09/07/2017,FALSE,google,cpc,,Colorado,3,2,0,0
+09/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Massachusetts,1,1,0,0
+09/07/2017,FALSE,sites.google.com,referral,/a/buffaloseminary.org/2015-summer-orientation/google,not available in demo dataset,1,1,0,0
+09/07/2017,TRUE,google,cpm,,New York,5,2,0,0
+09/07/2017,FALSE,google,organic,,Colorado,7,1,0,0
+09/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,Arizona,2,2,0,0
+09/07/2017,TRUE,(direct),(none),,Colorado,18,6,0,0
+09/07/2017,TRUE,google,cpm,,not available in demo dataset,2,1,0,0
+09/07/2017,TRUE,google,organic,,Colorado,7,0,0,0
+09/07/2017,TRUE,yahoo,organic,,New York,2,0,0,0
+09/07/2017,TRUE,google,cpc,,(not set),3,1,0,0
+09/07/2017,TRUE,google,organic,,Oregon,2,0,0,0
+09/07/2017,FALSE,l.messenger.com,referral,/l.php,California,6,1,0,0
+09/07/2017,FALSE,google,cpc,,Oregon,1,0,0,0
+09/07/2017,TRUE,youtube.com,referral,/mobile,Pennsylvania,1,1,0,0
+09/07/2017,TRUE,quora.com,referral,/Where-can-I-buy-a-stuffed-Go-language-gopher-mascot-online,not available in demo dataset,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/,(not set),3,3,0,0
+09/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,Colorado,2,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/es-419/yt/about/copyright/,not available in demo dataset,2,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/,California,4,2,0,0
+09/07/2017,TRUE,blog.golang.org,referral,/gopher,Colorado,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/mr/yt/about/press/,Washington,1,0,0,0
+09/07/2017,FALSE,(direct),(none),/offer/2145,Michigan,1,0,1,321000000
+09/07/2017,TRUE,l.facebook.com,referral,/l.php,California,1,1,0,0
+09/07/2017,TRUE,facebook.com,referral,/,California,1,1,0,0
+09/07/2017,FALSE,Partners,affiliate,,(not set),1,1,0,0
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/nest-vision/dropcam-field-tester-program,New York,1,1,0,0
+09/07/2017,TRUE,blog.golang.org,referral,/gopher,Texas,1,0,0,0
+09/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,District of Columbia,2,1,0,0
+09/07/2017,FALSE,reddit.com,referral,/r/google/comments/2ohhqb/ordered_from_the_google_merchandise_store_and_got/,not available in demo dataset,1,0,0,0
+09/07/2017,TRUE,m.facebook.com,referral,/,New York,5,3,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/experiences/,not available in demo dataset,1,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/,California,1,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/policies/,Georgia,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/zh-TW/yt/about/press/,(not set),1,1,0,0
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/on-site-store,not available in demo dataset,1,1,0,0
+09/07/2017,FALSE,(direct),(none),/aw/ads/edit/display,California,1,1,0,0
+09/07/2017,TRUE,Partners,affiliate,,New York,1,1,0,0
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/aa-noogler/getting-started/training-schedule,California,1,1,0,0
+09/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Pennsylvania,1,1,0,0
+09/07/2017,FALSE,Partners,affiliate,,Pennsylvania,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/fr-CA/yt/about/press/,Washington,1,0,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/experiences/,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,google,cpc,,District of Columbia,1,1,0,0
+09/07/2017,FALSE,baidu,organic,,not available in demo dataset,1,1,0,0
+09/07/2017,TRUE,(direct),(none),,Nevada,3,3,0,0
+09/07/2017,TRUE,Partners,affiliate,,Georgia,1,1,0,0
+09/07/2017,TRUE,google.com,referral,/intl/ALL/permissions/using-the-logo.html,not available in demo dataset,1,1,0,0
+09/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Texas,2,1,0,0
+09/07/2017,TRUE,google,organic,,Nevada,4,1,0,0
+09/07/2017,TRUE,google,cpc,,Nevada,1,1,0,0
+09/07/2017,TRUE,(direct),(none),,Ho Chi Minh City,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/en-GB/yt/about/copyright/,not available in demo dataset,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/th/yt/about/press/,Washington,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/ca/yt/about/press/,Washington,1,0,0,0
+09/07/2017,FALSE,blog.golang.org,referral,/gopher,Washington,2,1,0,0
+09/07/2017,FALSE,blog.golang.org,referral,/gopher,New York,1,0,0,0
+09/07/2017,TRUE,(direct),(none),/,not available in demo dataset,2,0,1,77560000
+09/07/2017,TRUE,m.youtube.com,referral,/watch,Washington,1,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/intl/zh-CN/yt/about/,(not set),1,1,0,0
+09/07/2017,FALSE,l.facebook.com,referral,/l.php,New York,1,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/brand-resources/,Colorado,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Illinois,1,0,0,0
+09/07/2017,TRUE,t.co,referral,/CcxArxJCrv,New York,1,0,0,0
+09/07/2017,FALSE,google,organic,,California,438,123,8,749270000
+09/07/2017,FALSE,google,cpc,,Michigan,1,1,0,0
+09/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,California,2,2,0,0
+09/07/2017,FALSE,google,cpm,,California,77,36,4,360450000
+09/07/2017,TRUE,(direct),(none),,Illinois,9,6,1,46370000
+09/07/2017,FALSE,(direct),(none),,California,215,81,6,529550000
+09/07/2017,TRUE,google,organic,,California,268,109,0,0
+09/07/2017,TRUE,google,organic,,not available in demo dataset,1064,517,8,303740000
+09/07/2017,FALSE,google,cpc,,not available in demo dataset,130,41,7,540490000
+09/07/2017,FALSE,google,cpc,,New York,11,2,1,23990000
+09/07/2017,TRUE,google,organic,,New York,87,44,0,0
+09/07/2017,FALSE,(direct),(none),,New York,63,25,7,2011570000
+09/07/2017,FALSE,(direct),(none),/,New York,180,33,17,1867660000
+09/07/2017,TRUE,(direct),(none),,California,143,86,1,32940000
+09/07/2017,FALSE,(direct),(none),,Pennsylvania,4,3,0,0
+09/07/2017,FALSE,Partners,affiliate,,New York,12,7,0,0
+09/07/2017,FALSE,Partners,affiliate,,California,23,8,1,230870000
+09/07/2017,FALSE,(direct),(none),/,not available in demo dataset,183,32,24,1629530000
+09/07/2017,FALSE,(direct),(none),/,Illinois,16,2,4,236460000
+09/07/2017,TRUE,dfa,cpm,,California,6,2,0,0
+09/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,New York,8,3,0,0
+09/07/2017,FALSE,(direct),(none),/,Washington,41,6,6,653260000
+09/07/2017,FALSE,docs.google.com,referral,/spreadsheets/d/1esbw1p3htF3S-iA57UNl5HuFJbjpXaRuiAwzxzKDasw/edit,California,1,1,0,0
+09/07/2017,FALSE,(direct),(none),,Virginia,15,6,0,0
+09/07/2017,FALSE,google,organic,,Massachusetts,26,9,4,386990000
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,not available in demo dataset,8,5,0,0
+09/07/2017,FALSE,google,organic,,New York,122,36,4,744710000
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,County Dublin,3,1,0,0
+09/07/2017,FALSE,msn.com,referral,/spartan/ntp,not available in demo dataset,1,1,0,0
+09/07/2017,FALSE,google,organic,,(not set),15,8,0,0
+09/07/2017,FALSE,(direct),(none),,District of Columbia,8,5,0,0
+09/07/2017,TRUE,google,organic,,Florida,7,5,0,0
+09/07/2017,TRUE,google,organic,,Washington,12,9,0,0
+09/07/2017,FALSE,(direct),(none),/,Massachusetts,20,3,6,269140000
+09/07/2017,FALSE,google,organic,,Illinois,21,11,0,0
+09/07/2017,FALSE,google,cpc,,(not set),1,1,0,0
+09/07/2017,FALSE,(direct),(none),,Texas,38,13,2,690430000
+09/07/2017,FALSE,(direct),(none),/,Texas,24,5,2,64220000
+09/07/2017,FALSE,googleads.g.doubleclick.net,referral,/pagead/ads,California,2,1,0,0
+09/07/2017,FALSE,google,organic,,Georgia,8,3,0,0
+09/07/2017,FALSE,(direct),(none),/,Tennessee,2,0,1,85800000
+09/07/2017,FALSE,Partners,affiliate,,Illinois,3,1,0,0
+09/07/2017,TRUE,dfa,cpm,,not available in demo dataset,15,4,0,0
+09/07/2017,TRUE,(direct),(none),,Florida,2,0,0,0
+09/07/2017,TRUE,google,cpc,,Kentucky,4,3,0,0
+09/07/2017,FALSE,dfa,cpm,,not available in demo dataset,16,7,0,0
+09/07/2017,TRUE,google,organic,,Tennessee,5,2,0,0
+09/07/2017,FALSE,docs.google.com,referral,/presentation/d/1yyX2DMnr5NaQqckh92Gy-YECS9hZm30cUMl-UUscs6E/present,Washington,1,0,0,0
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/nestlabs/home/employee-purchase-program,not available in demo dataset,6,0,0,0
+09/07/2017,FALSE,(direct),(none),/pagead/ads,California,2,1,0,0
+09/07/2017,FALSE,bing,organic,,Texas,1,0,0,0
+09/07/2017,FALSE,google.com,referral,/intl/en/permissions/using-the-logo.html,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,yahoo,organic,,California,1,0,0,0
+09/07/2017,TRUE,google,organic,,Georgia,15,10,0,0
+09/07/2017,FALSE,yahoo,organic,,Virginia,1,0,0,0
+09/07/2017,FALSE,(direct),(none),/,(not set),1,0,0,0
+09/07/2017,FALSE,(direct),(none),/,Georgia,6,0,1,64050000
+09/07/2017,TRUE,(direct),(none),/,California,4,1,1,22480000
+09/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,29,24,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,8,3,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/,Washington,8,4,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/en-GB/yt/about/press/,not available in demo dataset,1,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/policies/,not available in demo dataset,3,2,0,0
+09/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,California,4,3,0,0
+09/07/2017,FALSE,youtube.com,referral,/,New York,3,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/,Illinois,1,0,0,0
+09/07/2017,FALSE,google,cpc,,Texas,3,1,0,0
+09/07/2017,TRUE,google,organic,,Michigan,15,4,0,0
+09/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,Illinois,1,1,0,0
+09/07/2017,TRUE,(direct),(none),,District of Columbia,4,4,0,0
+09/07/2017,FALSE,(direct),(none),/,Telangana,3,2,0,0
+09/07/2017,TRUE,google,cpc,,Michigan,2,1,0,0
+09/07/2017,TRUE,google,organic,,Massachusetts,9,3,0,0
+09/07/2017,FALSE,google,organic,,Kentucky,3,0,0,0
+09/07/2017,FALSE,google,cpc,,Illinois,4,0,0,0
+09/07/2017,FALSE,ask,organic,,Georgia,1,0,0,0
+09/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Illinois,1,0,0,0
+09/07/2017,TRUE,bing,organic,,not available in demo dataset,2,0,0,0
+09/07/2017,TRUE,dfa,cpm,,New York,1,0,0,0
+09/07/2017,FALSE,google,organic,,District of Columbia,5,1,1,59850000
+09/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store/mountain-view-store,California,6,1,1,96230000
+09/07/2017,TRUE,(direct),(none),,Tennessee,1,0,0,0
+09/07/2017,TRUE,youtube.com,referral,/mobile,Illinois,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/,California,2,2,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Washington,8,4,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/experiences/,California,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/press/,(not set),1,1,0,0
+09/07/2017,FALSE,l.facebook.com,referral,/l.php,not available in demo dataset,4,3,0,0
+09/07/2017,FALSE,quora.com,referral,/How-can-one-get-a-Google-T-shirt-in-India,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,not available in demo dataset,8,1,0,0
+09/07/2017,FALSE,plus.google.com,referral,/,California,2,0,0,0
+09/07/2017,TRUE,m.facebook.com,referral,/,California,12,5,0,0
+09/07/2017,TRUE,m.facebook.com,referral,/,Pennsylvania,1,0,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/es-419/,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/,New York,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/nl/yt/about/,Washington,1,0,0,0
+09/07/2017,FALSE,google,cpm,,Massachusetts,2,2,0,0
+09/07/2017,TRUE,google,organic,,Pennsylvania,7,4,0,0
+09/07/2017,FALSE,s0.2mdn.net,referral,/ads/richmedia/studio/pv2/60273899/dirty/index.html,California,5,3,0,0
+09/07/2017,FALSE,(direct),(none),/offer/2145,Washington,4,1,0,0
+09/07/2017,TRUE,(direct),(none),,Pennsylvania,1,1,0,0
+09/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,New York,2,2,0,0
+09/07/2017,FALSE,blog.golang.org,referral,/gopher,not available in demo dataset,5,1,0,0
+09/07/2017,TRUE,google,cpm,,California,9,1,0,0
+09/07/2017,FALSE,dfa,cpm,,Michigan,1,1,0,0
+09/07/2017,FALSE,(direct),(none),/offer/2145,Texas,2,1,0,0
+09/07/2017,TRUE,google,organic,,Karnataka,2,1,0,0
+09/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/incentives-amounts,California,1,0,0,0
+09/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,(not set),1,0,0,0
+09/07/2017,TRUE,google,cpc,,Washington,1,0,0,0
+09/07/2017,TRUE,yahoo,organic,,not available in demo dataset,3,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/zh-CN/yt/about/,(not set),2,2,0,0
+09/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,District of Columbia,1,1,0,0
+09/07/2017,FALSE,groups.google.com,referral,/forum/,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,reddit.com,referral,/r/chromeos/comments/39boco/looking_for_chrome_sticker/,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,l.facebook.com,referral,/,Texas,1,0,0,0
+09/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,4,1,0,0
+09/07/2017,FALSE,google,cpc,,Washington,3,0,0,0
+09/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,Massachusetts,1,0,1,84980000
+09/07/2017,TRUE,lm.facebook.com,referral,/l.php,California,2,2,0,0
+09/07/2017,FALSE,baidu,organic,,(not set),1,0,0,0
+09/07/2017,FALSE,quora.com,referral,/Where-can-I-buy-a-stuffed-Go-language-gopher-mascot-online,not available in demo dataset,4,1,0,0
+09/07/2017,TRUE,googleads.g.doubleclick.net,referral,/pagead/ads,California,1,0,0,0
+09/07/2017,FALSE,l.facebook.com,referral,/l.php,(not set),2,2,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/en-GB/yt/about/,California,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/hr/yt/about/,Washington,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/ml/yt/about/press/,Washington,1,1,0,0
+09/07/2017,FALSE,facebook.com,referral,/,New York,1,0,0,0
+09/07/2017,TRUE,duckduckgo.com,referral,/,California,1,1,0,0
+09/07/2017,FALSE,google,cpc,,Karnataka,2,2,0,0
+09/07/2017,FALSE,l.messenger.com,referral,/l.php,not available in demo dataset,1,1,0,0
+09/07/2017,FALSE,Partners,affiliate,,Arizona,1,1,0,0
+09/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,California,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/pt-BR/yt/about/,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,reddit.com,referral,/r/ProjectFi/comments/430rw7/so_this_just_came_in_the_mail_project_fi_customer/,not available in demo dataset,1,0,0,0
+09/07/2017,TRUE,youtube.com,referral,/intl/es-419/yt/about/copyright/,California,1,0,0,0
+09/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,Texas,2,2,0,0
+09/07/2017,TRUE,Partners,affiliate,,Massachusetts,1,0,0,0
+09/07/2017,TRUE,google,organic,,(not set),3,1,0,0
+09/07/2017,FALSE,(direct),(none),/Rewards/Products/Details.aspx,California,1,0,0,0
+09/07/2017,TRUE,mail.google.com,referral,/mail/mu/mp/118/,California,1,0,0,0
+09/07/2017,TRUE,t.co,referral,/BB1QfReObs,not available in demo dataset,2,1,0,0
+09/07/2017,TRUE,youtube.com,referral,/yt/about/,Massachusetts,1,0,0,0
+09/07/2017,FALSE,t.co,referral,/redirect,not available in demo dataset,1,0,0,0
+09/07/2017,FALSE,dfa,cpm,,Illinois,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/ar/yt/about/copyright/,Washington,1,1,0,0
+09/07/2017,FALSE,youtube.com,referral,/intl/th/yt/about/copyright/,not available in demo dataset,1,1,0,0
+09/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,New York,1,0,0,0
+09/07/2017,FALSE,youtube.com,referral,/,Illinois,1,0,0,0
+16/07/2017,FALSE,google,organic,,not available in demo dataset,995,339,21,2116070000
+16/07/2017,TRUE,google,cpc,,not available in demo dataset,107,47,4,168880000
+16/07/2017,TRUE,google,organic,,Georgia,23,9,0,0
+16/07/2017,TRUE,google,organic,,California,385,139,6,395260000
+16/07/2017,FALSE,baidu,organic,,California,1,1,0,0
+16/07/2017,FALSE,Partners,affiliate,,not available in demo dataset,27,19,1,29990000
+16/07/2017,FALSE,(direct),(none),/,not available in demo dataset,172,36,26,4861640000
+16/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,not available in demo dataset,40,27,0,0
+16/07/2017,FALSE,(direct),(none),,Washington,17,10,0,0
+16/07/2017,FALSE,Partners,affiliate,,Illinois,1,1,0,0
+16/07/2017,TRUE,google,cpc,,Washington,8,3,0,0
+16/07/2017,TRUE,dfa,cpm,,not available in demo dataset,12,7,3,321400000
+16/07/2017,FALSE,dfa,cpm,,California,16,8,1,99550000
+16/07/2017,TRUE,google,cpc,,Georgia,5,3,0,0
+16/07/2017,TRUE,yahoo,organic,,California,9,3,1,46980000
+16/07/2017,TRUE,google,organic,,Illinois,45,15,2,52090000
+16/07/2017,FALSE,mail.google.com,referral,/mail/u/1/,not available in demo dataset,1,0,0,0
+16/07/2017,FALSE,google,organic,,(not set),10,4,0,0
+16/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,California,18,8,1,47380000
+16/07/2017,FALSE,(direct),(none),/,Georgia,17,2,6,678460000
+16/07/2017,FALSE,google,organic,,District of Columbia,2,1,0,0
+16/07/2017,FALSE,facebook.com,referral,/,not available in demo dataset,1,1,0,0
+16/07/2017,TRUE,youtube.com,referral,/yt/about/policies/,Illinois,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/,Washington,14,10,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,(not set),6,4,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/press/,not available in demo dataset,7,5,0,0
+16/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,10,4,0,0
+16/07/2017,TRUE,m.facebook.com,referral,/,New York,3,3,0,0
+16/07/2017,TRUE,youtube.com,referral,/yt/about/press/,not available in demo dataset,3,0,0,0
+16/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,California,1,0,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,California,16,4,1,166760000
+16/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/working-with-perks,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,Arizona,1,1,0,0
+16/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,District of Columbia,3,2,0,0
+16/07/2017,TRUE,youtube.com,referral,/,New York,1,1,0,0
+16/07/2017,TRUE,youtube.com,referral,/redirect,not available in demo dataset,1,1,0,0
+16/07/2017,TRUE,(direct),(none),,Washington,11,6,0,0
+16/07/2017,TRUE,youtube.com,referral,/,California,4,4,0,0
+16/07/2017,FALSE,Partners,affiliate,,(not set),1,1,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,not available in demo dataset,9,4,0,0
+16/07/2017,FALSE,(direct),(none),/offer/2145,not available in demo dataset,16,6,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/ml/yt/about/copyright/,Washington,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/press/,(not set),2,2,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/sk/yt/about/,Washington,1,1,0,0
+16/07/2017,FALSE,google,cpc,,Massachusetts,7,4,0,0
+16/07/2017,FALSE,(direct),(none),,Georgia,1,1,0,0
+16/07/2017,FALSE,hangouts.google.com,referral,/hangouts/_/event/c38c9jhk9m8f22aue9iknrnta1s,not available in demo dataset,4,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/brand-resources/,not available in demo dataset,1,0,0,0
+16/07/2017,FALSE,google,organic,,Oregon,13,1,2,96860000
+16/07/2017,FALSE,(direct),(none),,Oregon,3,1,1,13400000
+16/07/2017,FALSE,quora.com,referral,/Where-can-I-buy-a-stuffed-Go-language-gopher-mascot-online,Washington,1,0,0,0
+16/07/2017,FALSE,(direct),(none),/,Massachusetts,23,5,2,51410000
+16/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Washington,2,1,0,0
+16/07/2017,FALSE,(direct),(none),/,District of Columbia,2,0,0,0
+16/07/2017,FALSE,google,cpm,,New York,12,3,0,0
+16/07/2017,FALSE,optimize.google.com,referral,/optimize/opt-launch.html,California,3,2,0,0
+16/07/2017,FALSE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,Georgia,1,1,0,0
+16/07/2017,FALSE,Partners,affiliate,,New York,3,3,0,0
+16/07/2017,FALSE,(direct),(none),/offer/2145,Texas,1,1,0,0
+16/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,Texas,1,0,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/aa-noogler/getting-started/training-schedule,New York,1,0,0,0
+16/07/2017,FALSE,facebook.com,referral,/,California,2,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/vi/yt/about/press/,Washington,1,1,0,0
+16/07/2017,FALSE,(direct),(none),,Virginia,18,9,0,0
+16/07/2017,FALSE,google,organic,,Michigan,74,59,0,0
+16/07/2017,FALSE,google,cpm,,Washington,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/ru/yt/about/copyright/,not available in demo dataset,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/et/yt/about/press/,Washington,1,0,0,0
+16/07/2017,FALSE,google,organic,,Virginia,6,1,0,0
+16/07/2017,TRUE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,California,1,1,0,0
+16/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Pennsylvania,1,1,0,0
+16/07/2017,FALSE,Partners,affiliate,,Texas,1,1,0,0
+16/07/2017,FALSE,adwords.google.com,referral,/analytics/web/,not available in demo dataset,1,1,0,0
+16/07/2017,TRUE,(direct),(none),,Massachusetts,1,1,0,0
+16/07/2017,FALSE,google,organic,,Pennsylvania,4,1,0,0
+16/07/2017,TRUE,dfa,cpm,,Washington,1,0,0,0
+16/07/2017,FALSE,(direct),(none),/optimize/opt-launch.html,California,3,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/zh-CN/yt/about/,not available in demo dataset,3,2,0,0
+16/07/2017,FALSE,google,cpc,,Arizona,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/it/yt/about/,not available in demo dataset,1,1,0,0
+16/07/2017,TRUE,bing,organic,,Texas,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/fr/yt/about/policies/,Washington,1,1,0,0
+16/07/2017,FALSE,bing,organic,,Virginia,1,1,0,0
+16/07/2017,FALSE,(direct),(none),/optimize/opt-launch.html,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,(direct),(none),/,Colorado,9,0,0,0
+16/07/2017,FALSE,(direct),(none),/Rewards/Products/Details.aspx,not available in demo dataset,1,0,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/aa-noogler/getting-started/training-schedule,California,3,1,0,0
+16/07/2017,TRUE,google,cpc,,Hawaii,1,0,0,0
+16/07/2017,FALSE,(direct),(none),/Rewards/Products/Details.aspx,California,1,0,0,0
+16/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,Pennsylvania,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/watch,California,1,1,0,0
+16/07/2017,TRUE,youtube.com,referral,/intl/en-GB/yt/about/copyright/,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/iw/yt/about/copyright/,Washington,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/fi/yt/about/copyright/,Washington,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/mr/yt/about/copyright/,Washington,1,1,0,0
+16/07/2017,FALSE,reddit.com,referral,/r/chromeos/comments/39boco/looking_for_chrome_sticker/,not available in demo dataset,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Hawaii,1,0,0,0
+16/07/2017,FALSE,outlook.live.com,referral,/,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,Partners,affiliate,,North Carolina,2,2,0,0
+16/07/2017,FALSE,(direct),(none),/,Pennsylvania,3,2,0,0
+16/07/2017,FALSE,(direct),(none),/,England,1,1,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,Illinois,1,1,0,0
+16/07/2017,TRUE,google,organic,,Minnesota,1,1,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,Texas,1,0,0,0
+16/07/2017,FALSE,(direct),(none),,North Carolina,7,5,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store/mountain-view-store,California,2,1,0,0
+16/07/2017,TRUE,(direct),(none),,England,1,0,0,0
+16/07/2017,FALSE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,Ile-de-France,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/id/yt/about/copyright/,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/lt/yt/about/press/,not available in demo dataset,1,1,0,0
+16/07/2017,TRUE,youtube.com,referral,/intl/fr/yt/about/copyright/,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/pt-BR/yt/about/,Washington,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/ja/yt/about/,Washington,1,0,0,0
+16/07/2017,FALSE,phandroid.com,referral,/2015/03/11/google-merch-store-new-url/,Texas,1,0,0,0
+16/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,North Carolina,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/da/yt/about/copyright/,Washington,1,0,0,0
+16/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,Massachusetts,1,0,0,0
+16/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,Illinois,1,0,0,0
+16/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,New York,1,1,0,0
+16/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,New York,1,1,0,0
+16/07/2017,FALSE,(direct),(none),/pagead/ads,California,1,0,0,0
+16/07/2017,TRUE,youtube.com,referral,/yt/about/,Texas,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/no/yt/about/copyright/,Washington,1,1,0,0
+16/07/2017,FALSE,(direct),(none),,(not set),93,88,0,0
+16/07/2017,FALSE,google,organic,,New York,109,42,8,887770000
+16/07/2017,TRUE,(direct),(none),,New York,26,15,0,0
+16/07/2017,FALSE,google,cpc,,California,50,25,1,45980000
+16/07/2017,FALSE,google,cpm,,California,93,43,3,377230000
+16/07/2017,TRUE,dfa,cpm,,California,8,5,0,0
+16/07/2017,TRUE,(direct),(none),,not available in demo dataset,277,145,3,149920000
+16/07/2017,TRUE,google,cpc,,Illinois,7,3,0,0
+16/07/2017,TRUE,Partners,affiliate,,not available in demo dataset,4,3,0,0
+16/07/2017,TRUE,(direct),(none),,Texas,18,12,0,0
+16/07/2017,FALSE,google,(not set),,California,1,1,0,0
+16/07/2017,FALSE,(direct),(none),/,Washington,47,6,9,663310000
+16/07/2017,FALSE,(direct),(none),/,New York,139,23,12,1509830000
+16/07/2017,FALSE,dfa,cpm,,not available in demo dataset,23,10,0,0
+16/07/2017,FALSE,(direct),(none),,Texas,30,13,3,209000000
+16/07/2017,TRUE,(direct),(none),,Georgia,5,4,0,0
+16/07/2017,TRUE,google,organic,,Washington,28,10,0,0
+16/07/2017,FALSE,google,cpc,,not available in demo dataset,94,24,9,845750000
+16/07/2017,TRUE,google,organic,,District of Columbia,10,2,0,0
+16/07/2017,TRUE,google,organic,,Texas,52,25,1,32280000
+16/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,4,1,0,0
+16/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,California,1,0,0,0
+16/07/2017,TRUE,google,cpc,,Texas,6,2,0,0
+16/07/2017,FALSE,(direct),(none),/,Illinois,39,5,5,440500000
+16/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Washington,12,10,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/ca/yt/about/copyright/,Washington,3,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/te/yt/about/copyright/,Washington,2,2,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/,not available in demo dataset,50,34,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/,California,7,5,0,0
+16/07/2017,TRUE,youtube.com,referral,/yt/about/,not available in demo dataset,10,3,0,0
+16/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,not available in demo dataset,12,2,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Washington,11,6,0,0
+16/07/2017,FALSE,reddit.com,referral,/r/videos/comments/50go4p/small_islands_sheepview_worked_google_listened/,California,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/nl/yt/about/copyright/,not available in demo dataset,1,0,0,0
+16/07/2017,TRUE,youtube.com,referral,/,not available in demo dataset,23,12,0,0
+16/07/2017,FALSE,bing,organic,,not available in demo dataset,5,1,1,20960000
+16/07/2017,FALSE,google,organic,,Washington,21,6,1,39200000
+16/07/2017,TRUE,google,cpc,,Arizona,3,1,0,0
+16/07/2017,TRUE,(direct),(none),,Arizona,3,3,0,0
+16/07/2017,TRUE,Partners,affiliate,,California,2,2,0,0
+16/07/2017,FALSE,youtube.com,referral,/watch,not available in demo dataset,2,2,0,0
+16/07/2017,FALSE,l.facebook.com,referral,/l.php,New York,3,3,0,0
+16/07/2017,FALSE,google,organic,,Illinois,20,5,3,244560000
+16/07/2017,FALSE,youtube.com,referral,/yt/about/,Arizona,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/sr/yt/about/press/,Washington,1,1,0,0
+16/07/2017,FALSE,google,organic,,Georgia,7,3,0,0
+16/07/2017,FALSE,google,cpm,,Illinois,4,1,1,191180000
+16/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Massachusetts,7,4,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/lt/yt/about/copyright/,Washington,1,0,0,0
+16/07/2017,FALSE,google,cpc,,Oregon,4,1,0,0
+16/07/2017,FALSE,google,cpc,,Georgia,2,0,0,0
+16/07/2017,FALSE,phandroid.com,referral,/2015/03/11/google-merch-store-new-url/,California,1,1,0,0
+16/07/2017,TRUE,amp.reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,California,1,0,0,0
+16/07/2017,TRUE,t.co,referral,/QpXvjwMv6t,not available in demo dataset,2,2,0,0
+16/07/2017,TRUE,youtube.com,referral,/intl/es/yt/about/,California,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/,(not set),3,3,0,0
+16/07/2017,TRUE,youtube.com,referral,/yt/about/experiences/,not available in demo dataset,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/iw/yt/about/press/,Washington,1,0,0,0
+16/07/2017,TRUE,google,cpc,,Massachusetts,3,0,0,0
+16/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,California,4,2,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/pt-PT/yt/about/press/,Washington,2,1,0,0
+16/07/2017,TRUE,(direct),(none),/,California,3,0,1,24000000
+16/07/2017,FALSE,(direct),(none),/,Michigan,29,4,9,1716140000
+16/07/2017,FALSE,dfa,cpm,,Massachusetts,5,1,0,0
+16/07/2017,FALSE,google,cpc,,North Carolina,2,0,0,0
+16/07/2017,TRUE,google,cpc,,Pennsylvania,1,1,0,0
+16/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,California,3,3,0,0
+16/07/2017,TRUE,google,cpc,,(not set),4,3,0,0
+16/07/2017,FALSE,quora.com,referral,/Where-can-I-buy-a-stuffed-Go-language-gopher-mascot-online,not available in demo dataset,3,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/fil/yt/about/copyright/,Washington,1,1,0,0
+16/07/2017,FALSE,t.co,referral,/QpXvjwMv6t,Washington,1,1,0,0
+16/07/2017,FALSE,(direct),(none),/signup/,California,1,1,0,0
+16/07/2017,TRUE,google,organic,,Massachusetts,2,2,0,0
+16/07/2017,TRUE,away.vk.com,referral,/away.php,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store,New York,1,1,0,0
+16/07/2017,TRUE,ask,organic,,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/incentives-amounts,California,1,1,0,0
+16/07/2017,FALSE,google,organic,,Hawaii,2,1,0,0
+16/07/2017,FALSE,moodle.aurora.edu,referral,/moodle/mod/forum/discuss.php,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/nestlabs/home/employee-purchase-program,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Texas,1,1,0,0
+16/07/2017,FALSE,google,cpc,,Pennsylvania,1,0,0,0
+16/07/2017,FALSE,blog.golang.org,referral,/gopher,California,2,0,0,0
+16/07/2017,FALSE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,not available in demo dataset,1,0,0,0
+16/07/2017,TRUE,(direct),(none),,Victoria,1,0,0,0
+16/07/2017,FALSE,google.com,referral,/maps/d/u/0/edit,California,2,0,0,0
+16/07/2017,FALSE,(direct),(none),,Michigan,4,0,0,0
+16/07/2017,TRUE,(direct),(none),,Pennsylvania,1,0,0,0
+16/07/2017,FALSE,sites.google.com,referral,/corp/google.com/deepmind6ps/perks-activities/swag,California,1,0,0,0
+16/07/2017,FALSE,google,organic,,Colorado,2,1,0,0
+16/07/2017,TRUE,google,organic,,Hawaii,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/,Massachusetts,3,2,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/pt-PT/yt/about/copyright/,Washington,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/fi/yt/about/,Washington,1,1,0,0
+16/07/2017,TRUE,(direct),(none),,Colorado,1,1,0,0
+16/07/2017,FALSE,(direct),(none),,Minnesota,6,2,1,97020000
+16/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Illinois,1,0,0,0
+16/07/2017,TRUE,(direct),(none),,Minnesota,2,0,0,0
+16/07/2017,FALSE,(direct),(none),,Pennsylvania,1,0,0,0
+16/07/2017,FALSE,mail.google.com,referral,/mail/ca/u/0/,California,2,0,0,0
+16/07/2017,FALSE,away.vk.com,referral,/away.php,California,1,1,0,0
+16/07/2017,FALSE,google.com,referral,/,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,(direct),(none),/offer/2145,Illinois,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Texas,1,0,0,0
+16/07/2017,FALSE,lunametrics.com,referral,/blog/2016/08/03/google-analytics-demo-account/,California,1,1,0,0
+16/07/2017,FALSE,(direct),(none),/offer/2145,Georgia,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/,New York,2,2,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/ro/yt/about/copyright/,Washington,1,1,0,0
+16/07/2017,TRUE,google,cpc,,California,66,19,1,100990000
+16/07/2017,TRUE,(direct),(none),,(not set),67,66,0,0
+16/07/2017,FALSE,google,organic,,California,534,165,17,1725500000
+16/07/2017,TRUE,google,organic,,not available in demo dataset,1047,512,9,324140000
+16/07/2017,TRUE,(direct),(none),,California,189,96,1,34960000
+16/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,9,4,0,0
+16/07/2017,FALSE,(direct),(none),,not available in demo dataset,290,121,10,27266480000
+16/07/2017,FALSE,(direct),(none),/,California,967,169,71,7024020000
+16/07/2017,FALSE,(direct),(none),,California,287,113,7,689730000
+16/07/2017,FALSE,blog.golang.org,referral,/gopher,not available in demo dataset,4,2,0,0
+16/07/2017,FALSE,(direct),(none),/offer/2145,California,43,16,0,0
+16/07/2017,FALSE,google,organic,,Texas,49,10,4,189790000
+16/07/2017,TRUE,google,organic,,New York,74,35,0,0
+16/07/2017,TRUE,(direct),(none),,District of Columbia,4,3,0,0
+16/07/2017,TRUE,(direct),(none),,Illinois,15,8,0,0
+16/07/2017,FALSE,google,cpc,,New York,4,1,0,0
+16/07/2017,FALSE,Partners,affiliate,,California,2,0,0,0
+16/07/2017,FALSE,(direct),(none),,Illinois,15,6,1,37140000
+16/07/2017,FALSE,docs.google.com,referral,/spreadsheets/d/1esbw1p3htF3S-iA57UNl5HuFJbjpXaRuiAwzxzKDasw/edit,California,1,0,0,0
+16/07/2017,TRUE,google,organic,,(not set),3,0,0,0
+16/07/2017,TRUE,google,cpc,,New York,3,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,35,25,1,8490000
+16/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,New York,2,2,0,0
+16/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4zk0qy/in_serious_need_of_some_gopher_golang_swag/,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,l.facebook.com,referral,/l.php,not available in demo dataset,6,6,0,0
+16/07/2017,TRUE,m.facebook.com,referral,/,California,5,4,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,California,2,0,0,0
+16/07/2017,TRUE,m.facebook.com,referral,/,not available in demo dataset,10,3,0,0
+16/07/2017,TRUE,youtube.com,referral,/intl/vi/yt/about/,not available in demo dataset,1,0,0,0
+16/07/2017,FALSE,google,cpm,,not available in demo dataset,6,1,0,0
+16/07/2017,FALSE,google,organic,,Arizona,4,0,1,68190000
+16/07/2017,FALSE,reddit.com,referral,/r/HomeImprovement/comments/5acczs/how_to_temporarily_screen_an_apartment_balcony_to/,California,1,1,0,0
+16/07/2017,FALSE,(direct),(none),,New York,50,17,3,862500000
+16/07/2017,TRUE,m.facebook.com,referral,/,Washington,1,0,0,0
+16/07/2017,TRUE,youtube.com,referral,/mobile,not available in demo dataset,7,1,0,0
+16/07/2017,TRUE,(direct),(none),/,not available in demo dataset,3,2,0,0
+16/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,New York,6,5,0,0
+16/07/2017,TRUE,m.youtube.com,referral,/watch,not available in demo dataset,2,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/,not available in demo dataset,7,3,0,0
+16/07/2017,FALSE,l.messenger.com,referral,/l.php,California,3,1,0,0
+16/07/2017,TRUE,google,organic,,Arizona,2,1,0,0
+16/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,California,3,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/,Texas,3,3,0,0
+16/07/2017,TRUE,lm.facebook.com,referral,/l.php,not available in demo dataset,4,2,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/es-419/yt/about/press/,Washington,1,1,0,0
+16/07/2017,FALSE,google,organic,,Massachusetts,35,9,2,1048520000
+16/07/2017,TRUE,google,cpm,,California,16,4,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,New York,1,0,0,0
+16/07/2017,FALSE,google,cpc,,Illinois,2,0,0,0
+16/07/2017,FALSE,phandroid.com,referral,/2015/03/11/google-merch-store-new-url/,not available in demo dataset,1,0,0,0
+16/07/2017,FALSE,dfa,cpm,,New York,3,3,0,0
+16/07/2017,FALSE,mail.google.com,referral,/mail/,California,1,0,0,0
+16/07/2017,FALSE,plus.google.com,referral,/,California,1,0,0,0
+16/07/2017,FALSE,google,cpm,,Texas,2,0,0,0
+16/07/2017,FALSE,hangouts.google.com,referral,/hangouts/_/event/chfq4onpapmh39v8pecq3pvaj00,not available in demo dataset,1,0,0,0
+16/07/2017,FALSE,Partners,affiliate,,Washington,1,0,0,0
+16/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,not available in demo dataset,2,0,0,0
+16/07/2017,TRUE,yahoo,organic,,not available in demo dataset,2,1,0,0
+16/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/working-with-perks,California,2,2,0,0
+16/07/2017,FALSE,(direct),(none),,Massachusetts,5,1,0,0
+16/07/2017,TRUE,myactivity.google.com,referral,/myactivity,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/,Illinois,5,5,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/transportation/mtv-services/bikes/bike2workmay2016,New York,1,1,0,0
+16/07/2017,FALSE,google,cpc,,Washington,2,0,1,27380000
+16/07/2017,FALSE,youtube.com,referral,/intl/sr/yt/about/copyright/,Washington,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/zh-CN/yt/about/copyright/,(not set),1,1,0,0
+16/07/2017,FALSE,google,cpc,,Texas,1,0,0,0
+16/07/2017,FALSE,yahoo,organic,,California,3,0,1,81950000
+16/07/2017,FALSE,(direct),(none),,Arizona,6,2,0,0
+16/07/2017,FALSE,(direct),(none),/,Texas,11,2,1,49380000
+16/07/2017,FALSE,youtube.com,referral,/intl/pt-BR/yt/about/copyright/,Washington,1,0,0,0
+16/07/2017,FALSE,(direct),(none),/offer/2145,New York,4,0,0,0
+16/07/2017,TRUE,youtube.com,referral,/yt/about/,Pennsylvania,1,0,0,0
+16/07/2017,TRUE,google,organic,,County Dublin,1,0,0,0
+16/07/2017,FALSE,(direct),(none),,Lazio,1,0,0,0
+16/07/2017,FALSE,google,organic,,North Carolina,5,2,0,0
+16/07/2017,TRUE,m.yz.sm.cn,referral,/s,not available in demo dataset,1,1,0,0
+16/07/2017,TRUE,baidu,organic,,California,1,1,0,0
+16/07/2017,TRUE,support.google.com,referral,/maps/forum/AAAAQuUrST8rtQMhvDlS0Y/,California,1,1,0,0
+16/07/2017,TRUE,google,organic,,North Carolina,4,3,0,0
+16/07/2017,FALSE,reddit.com,referral,/r/golang/comments/2u2n8q/gopher_soft_toy/,not available in demo dataset,1,1,0,0
+16/07/2017,TRUE,Partners,affiliate,,North Carolina,1,1,0,0
+16/07/2017,FALSE,docs.google.com,referral,/spreadsheets/d/15eCqBr-ZCBj6ZyU8F7prObUE8s8sCx9I75FEbmNwZ04/edit,not available in demo dataset,3,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/gl/yt/about/press/,Washington,1,1,0,0
+16/07/2017,FALSE,t.co,referral,/QpXvjwMv6t,not available in demo dataset,4,4,0,0
+16/07/2017,TRUE,google,organic,,Pennsylvania,3,3,0,0
+16/07/2017,FALSE,Partners,affiliate,,Pennsylvania,1,1,0,0
+16/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,(not set),1,1,0,0
+16/07/2017,FALSE,(direct),(none),/offer/2145,Washington,4,2,0,0
+16/07/2017,FALSE,bing,organic,,California,1,0,0,0
+16/07/2017,TRUE,google,cpm,,Washington,1,0,0,0
+16/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,Pennsylvania,1,0,0,0
+16/07/2017,FALSE,optimize.google.com,referral,/optimize/opt-launch.html,not available in demo dataset,1,0,0,0
+16/07/2017,FALSE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,California,2,0,1,13800000
+16/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,Texas,1,0,0,0
+16/07/2017,FALSE,(direct),(none),,Hawaii,2,0,0,0
+16/07/2017,TRUE,youtube.com,referral,/mobile,California,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/watch,New York,1,1,0,0
+16/07/2017,FALSE,quora.com,referral,/unanswered/Where-can-I-buy-a-plastic-golang-gopher,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/pt-PT/yt/about/,Washington,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/eu/yt/about/copyright/,Washington,2,2,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/el/yt/about/,Washington,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/,California,2,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/da/yt/about/press/,Washington,1,0,0,0
+16/07/2017,TRUE,youtube.com,referral,/yt/about/policies/,not available in demo dataset,2,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/yt/about/policies/,Washington,1,0,0,0
+16/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/incentives-amounts,New York,1,1,0,0
+16/07/2017,FALSE,(direct),(none),,Colorado,9,3,0,0
+16/07/2017,TRUE,google,cpc,,Michigan,1,1,0,0
+16/07/2017,FALSE,google,organic,,Minnesota,5,1,1,37670000
+16/07/2017,FALSE,bing,organic,,North Carolina,2,0,0,0
+16/07/2017,TRUE,google,cpc,,Colorado,1,0,0,0
+16/07/2017,FALSE,yahoo,organic,,not available in demo dataset,2,1,0,0
+16/07/2017,FALSE,Partners,affiliate,,Oregon,1,0,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/lt/yt/about/,Washington,1,1,0,0
+16/07/2017,TRUE,youtube.com,referral,/intl/zh-CN/yt/about/,Texas,1,1,0,0
+16/07/2017,FALSE,t.co,referral,/Fr82tEN0Gr,not available in demo dataset,1,1,0,0
+16/07/2017,FALSE,youtube.com,referral,/intl/is/yt/about/,Washington,1,0,0,0
+16/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,New York,2,0,0,0
+16/07/2017,FALSE,quora.com,referral,/Where-can-I-buy-a-stuffed-Go-language-gopher-mascot-online,Illinois,1,0,0,0
+16/07/2017,FALSE,baidu,organic,,(not set),1,0,0,0
+16/07/2017,TRUE,(direct),(none),/Rewards/Products/Details.aspx,California,1,0,0,0
+16/07/2017,FALSE,google,cpm,,Massachusetts,1,0,0,0
+16/07/2017,FALSE,blog.golang.org,referral,/gopher,Massachusetts,1,0,0,0
+16/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,California,1,0,0,0
+23/07/2017,TRUE,google,organic,,California,313,118,1,31990000
+23/07/2017,TRUE,(direct),(none),,(not set),56,52,0,0
+23/07/2017,FALSE,google,organic,,New York,100,37,0,0
+23/07/2017,FALSE,google,cpc,,not available in demo dataset,104,24,6,332220000
+23/07/2017,FALSE,google,organic,,California,511,158,19,905860000
+23/07/2017,FALSE,google,organic,,Texas,40,10,6,313670000
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/on-site-store,not available in demo dataset,3,3,0,0
+23/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/incentives-amounts,California,4,2,0,0
+23/07/2017,FALSE,(direct),(none),/,Pennsylvania,9,1,1,52000000
+23/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,not available in demo dataset,40,28,0,0
+23/07/2017,TRUE,google,cpc,,California,60,21,0,0
+23/07/2017,FALSE,(direct),(none),/offer/2145,California,41,17,1,82780000
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store/mountain-view-store,California,1,1,0,0
+23/07/2017,FALSE,google.com,referral,/maps/d/viewer,not available in demo dataset,1,1,0,0
+23/07/2017,FALSE,Partners,affiliate,,not available in demo dataset,24,7,0,0
+23/07/2017,FALSE,(direct),(none),,Minnesota,3,1,0,0
+23/07/2017,FALSE,(direct),(none),/,Texas,23,4,2,106090000
+23/07/2017,FALSE,(direct),(none),/,Washington,51,10,3,172930000
+23/07/2017,FALSE,(direct),(none),/offer/2145,Washington,3,2,0,0
+23/07/2017,FALSE,google,organic,,Washington,29,7,0,0
+23/07/2017,FALSE,google,organic,,Massachusetts,10,1,3,219540000
+23/07/2017,TRUE,google,organic,,Illinois,39,24,0,0
+23/07/2017,TRUE,(direct),(none),,Illinois,20,12,0,0
+23/07/2017,FALSE,search.1and1.com,referral,/find,not available in demo dataset,2,2,0,0
+23/07/2017,TRUE,dfa,cpm,,not available in demo dataset,28,7,0,0
+23/07/2017,FALSE,google,organic,,Arizona,1,1,0,0
+23/07/2017,TRUE,google,cpm,,California,5,0,0,0
+23/07/2017,FALSE,bing,organic,,California,4,1,0,0
+23/07/2017,FALSE,Partners,affiliate,,California,5,1,0,0
+23/07/2017,TRUE,google,organic,,Nevada,7,0,0,0
+23/07/2017,FALSE,google,cpm,,not available in demo dataset,8,1,1,31820000
+23/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/working-with-perks,California,5,2,0,0
+23/07/2017,TRUE,mail.google.com,referral,/mail/mu/mp/133/,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,dfa,cpm,,not available in demo dataset,13,2,0,0
+23/07/2017,FALSE,google,organic,,Wisconsin,3,0,1,400890000
+23/07/2017,FALSE,google,cpc,,New York,12,5,0,0
+23/07/2017,FALSE,google,organic,,District of Columbia,4,1,0,0
+23/07/2017,FALSE,google,cpm,,Michigan,1,0,0,0
+23/07/2017,TRUE,Partners,affiliate,,Arizona,1,0,0,0
+23/07/2017,TRUE,bing,organic,,not available in demo dataset,2,0,0,0
+23/07/2017,FALSE,google,cpc,,Washington,3,1,0,0
+23/07/2017,TRUE,google,organic,,(not set),11,1,2,144420000
+23/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,32,22,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/,California,7,3,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/hi/yt/about/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/press/,not available in demo dataset,15,13,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/de/yt/about/copyright/,Washington,1,1,0,0
+23/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,California,14,5,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/sk/yt/about/copyright/,Washington,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Washington,10,4,0,0
+23/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,Texas,1,0,0,0
+23/07/2017,FALSE,google,organic,,Florida,4,3,0,0
+23/07/2017,TRUE,google,organic,,Pennsylvania,4,1,0,0
+23/07/2017,TRUE,google,organic,,North Carolina,4,3,0,0
+23/07/2017,TRUE,(direct),(none),,Florida,3,1,0,0
+23/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,North Carolina,1,0,0,0
+23/07/2017,FALSE,msn.com,referral,/spartan/ntp,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,quora.com,referral,/Where-can-I-buy-a-stuffed-Go-language-gopher-mascot-online,not available in demo dataset,3,2,0,0
+23/07/2017,TRUE,youtube.com,referral,/intl/es/yt/about/experiences/,not available in demo dataset,1,1,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/,Florida,1,1,0,0
+23/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,Washington,1,1,0,0
+23/07/2017,FALSE,facebook.com,referral,/,not available in demo dataset,3,1,0,0
+23/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,Washington,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/experiences/,not available in demo dataset,3,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/hi/yt/about/copyright/,Washington,1,0,0,0
+23/07/2017,FALSE,(direct),(none),,Tennessee,3,1,0,0
+23/07/2017,FALSE,(direct),(none),/offer/2145,New York,5,2,0,0
+23/07/2017,FALSE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,California,2,0,0,0
+23/07/2017,FALSE,l.facebook.com,referral,/l.php,New York,3,3,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/,(not set),3,3,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/ko/yt/about/policies/,not available in demo dataset,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,New York,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/vi/yt/about/policies/,Washington,1,1,0,0
+23/07/2017,TRUE,m.yz.sm.cn,referral,/s,California,1,1,0,0
+23/07/2017,TRUE,google,cpc,,District of Columbia,1,1,0,0
+23/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,New York,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/es-419/yt/about/,not available in demo dataset,2,1,0,0
+23/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4zk0qy/in_serious_need_of_some_gopher_golang_swag/,New York,1,1,0,0
+23/07/2017,FALSE,l.facebook.com,referral,/l.php,(not set),3,3,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/th/yt/about/copyright/,Washington,1,0,0,0
+23/07/2017,TRUE,m.youtube.com,referral,/watch,Texas,1,0,0,0
+23/07/2017,TRUE,google,cpm,,New York,1,0,0,0
+23/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,New York,1,0,0,0
+23/07/2017,FALSE,earth.google.com,referral,"/web/search/google+/@37.418619,-122.087756,10.27337463a,818.4229692d,35y,0h,45t,0r/data=CoMBGlkSUwolMHg4MDhmYjlmZDA3MjIxNzJmOjB4ZjUxMzk2MThjYjAxZWIzNBn7PbFOlbVCQCHHgVfLnYVewCoYR29vZ2xlIE1lcmNoYW5kaXNlIFN0b3JlGAMgASImCiQJArtQKvu-QkARm81aS0u9QkAZRO_7L1WJXsAhdlrgv3OKXsAoAg",not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,productforums.google.com,referral,/forum/,not available in demo dataset,1,0,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/,Georgia,1,0,0,0
+23/07/2017,TRUE,lm.facebook.com,referral,/l.php,California,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/gl/yt/about/copyright/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/es/yt/about/,not available in demo dataset,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/en-GB/yt/about/copyright/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/hr/yt/about/copyright/,Washington,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/sv/yt/about/press/,Washington,1,0,0,0
+23/07/2017,FALSE,(direct),(none),/optimize/opt-launch.html,California,2,2,0,0
+23/07/2017,FALSE,google,organic,,Colorado,3,1,0,0
+23/07/2017,TRUE,google,organic,,Massachusetts,2,1,0,0
+23/07/2017,FALSE,aol,organic,,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/nestlabs/home/employee-purchase-program,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,google.com,referral,/ddm/bidmanager/,California,1,0,0,0
+23/07/2017,FALSE,docs.google.com,referral,/spreadsheets/d/15eCqBr-ZCBj6ZyU8F7prObUE8s8sCx9I75FEbmNwZ04/edit,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,(direct),(none),/offer/2145,Massachusetts,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/gl/yt/about/press/,Washington,1,1,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/,New York,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,(not set),2,2,0,0
+23/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,Colorado,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/ro/yt/about/,Washington,1,0,0,0
+23/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,California,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/te/yt/about/copyright/,Washington,1,0,0,0
+23/07/2017,FALSE,online-metrics.com,referral,/google-analytics-demo-account/,not available in demo dataset,1,1,0,0
+23/07/2017,FALSE,(direct),(none),/signup/,California,1,1,0,0
+23/07/2017,TRUE,google,organic,,Tel Aviv District,2,1,0,0
+23/07/2017,TRUE,google,cpc,,Nevada,2,0,1,11500000
+23/07/2017,FALSE,(direct),(none),,Pennsylvania,1,0,0,0
+23/07/2017,FALSE,google,cpm,,Pennsylvania,1,0,0,0
+23/07/2017,FALSE,(direct),(none),,Florida,1,0,0,0
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,(not set),1,0,0,0
+23/07/2017,TRUE,google,organic,,Kyiv city,1,0,0,0
+23/07/2017,FALSE,baidu,organic,,Florida,1,0,0,0
+23/07/2017,FALSE,yahoo,organic,,not available in demo dataset,1,0,0,0
+23/07/2017,TRUE,duckduckgo.com,referral,/,New York,1,0,0,0
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/biking-in-wa/,Washington,1,0,0,0
+23/07/2017,TRUE,google,organic,,Virginia,2,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/pt-PT/yt/about/copyright/,Washington,1,1,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/,Texas,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/en-GB/yt/about/brand-resources/,Oregon,1,1,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/,Washington,2,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/hr/yt/about/press/,Washington,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/pl/yt/about/,Washington,1,0,0,0
+23/07/2017,TRUE,youtube.com,referral,/intl/en/yt/about/brand-resources/,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,(direct),(none),,(not set),45,42,0,0
+23/07/2017,FALSE,(direct),(none),,Massachusetts,5,3,0,0
+23/07/2017,TRUE,(direct),(none),,California,139,69,1,20500000
+23/07/2017,FALSE,google,organic,,Oregon,9,3,0,0
+23/07/2017,FALSE,google,organic,,(not set),7,6,0,0
+23/07/2017,TRUE,google,cpc,,not available in demo dataset,107,41,1,31270000
+23/07/2017,TRUE,google,organic,,Georgia,28,15,0,0
+23/07/2017,TRUE,google,organic,,New York,66,29,0,0
+23/07/2017,FALSE,(direct),(none),/,New York,166,23,22,2194150000
+23/07/2017,FALSE,(direct),(none),/,California,869,149,55,4905920000
+23/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,Texas,1,1,0,0
+23/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,Massachusetts,2,1,0,0
+23/07/2017,TRUE,google,organic,,Texas,50,19,0,0
+23/07/2017,FALSE,web.mail.comcast.net,referral,/zimbra/mail,not available in demo dataset,1,1,0,0
+23/07/2017,FALSE,(direct),(none),,Washington,22,6,0,0
+23/07/2017,FALSE,(direct),(none),,Texas,16,6,0,0
+23/07/2017,FALSE,(direct),(none),/,Georgia,20,4,3,1401180000
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,not available in demo dataset,16,14,0,0
+23/07/2017,TRUE,google,organic,,Wisconsin,3,1,0,0
+23/07/2017,TRUE,(direct),(none),,Michigan,2,1,0,0
+23/07/2017,TRUE,(direct),(none),,Tennessee,10,6,0,0
+23/07/2017,FALSE,dfa,cpm,,California,13,8,0,0
+23/07/2017,FALSE,google,organic,,Illinois,35,10,0,0
+23/07/2017,FALSE,google,organic,,Tennessee,3,1,0,0
+23/07/2017,TRUE,google,organic,,Minnesota,2,2,0,0
+23/07/2017,FALSE,google,cpc,,Illinois,3,2,0,0
+23/07/2017,TRUE,(direct),(none),,District of Columbia,7,5,0,0
+23/07/2017,TRUE,google,cpc,,Oregon,1,0,0,0
+23/07/2017,TRUE,(direct),(none),,Washington,8,5,0,0
+23/07/2017,FALSE,google,organic,,Michigan,7,1,0,0
+23/07/2017,FALSE,(direct),(none),/,District of Columbia,3,0,0,0
+23/07/2017,FALSE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,Georgia,2,0,0,0
+23/07/2017,FALSE,(direct),(none),/offer/2145,Michigan,1,0,0,0
+23/07/2017,FALSE,google,cpm,,Washington,3,0,1,40760000
+23/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,Texas,5,1,0,0
+23/07/2017,FALSE,(direct),(none),/,Tennessee,2,0,1,53300000
+23/07/2017,FALSE,(direct),(none),/,Massachusetts,10,1,2,1286270000
+23/07/2017,FALSE,google,cpm,,Georgia,2,1,0,0
+23/07/2017,FALSE,yahoo,organic,,California,1,0,0,0
+23/07/2017,TRUE,google,cpc,,Texas,6,1,1,798080000
+23/07/2017,FALSE,(direct),(none),,Wisconsin,1,0,0,0
+23/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,California,16,3,0,0
+23/07/2017,FALSE,(direct),(none),,Arizona,1,0,0,0
+23/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,10,5,0,0
+23/07/2017,FALSE,dfa,cpm,,Illinois,1,0,0,0
+23/07/2017,TRUE,m.facebook.com,referral,/,(not set),2,2,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/,not available in demo dataset,44,34,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/press/,Texas,2,1,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,14,5,0,0
+23/07/2017,TRUE,m.facebook.com,referral,/,New York,3,2,0,0
+23/07/2017,TRUE,m.facebook.com,referral,/,not available in demo dataset,6,4,0,0
+23/07/2017,TRUE,youtube.com,referral,/,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/fr/yt/about/brand-resources/,Washington,1,0,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/press/,Tennessee,1,0,0,0
+23/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,10,5,0,0
+23/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,California,7,5,0,0
+23/07/2017,FALSE,(direct),(none),,North Carolina,1,1,0,0
+23/07/2017,TRUE,baidu,organic,,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,not available in demo dataset,3,0,1,29790000
+23/07/2017,FALSE,dfa,cpm,,Pennsylvania,1,0,0,0
+23/07/2017,FALSE,google,organic,,North Carolina,1,0,0,0
+23/07/2017,FALSE,google,cpc,,Nevada,1,0,0,0
+23/07/2017,FALSE,newclasses.nyu.edu,referral,"/access/lessonbuilder/item/22938538/group/5f484639-0491-4346-ba48-eb5553390db7/Lessons/C2L5%20-%20Setting%20up%20Conversions,%20Events,%20and%20Goal%20Tracking%207.25.pdf",New York,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/tr/yt/about/copyright/,Washington,1,1,0,0
+23/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,not available in demo dataset,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/,Illinois,1,0,0,0
+23/07/2017,FALSE,mail.google.com,referral,/mail/ca/u/0/,not available in demo dataset,1,0,0,0
+23/07/2017,TRUE,(direct),(none),/,California,1,0,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,California,2,1,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/brand-resources/,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,(direct),(none),,Kansas,8,8,0,0
+23/07/2017,FALSE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,Michigan,1,1,0,0
+23/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,New York,2,2,0,0
+23/07/2017,FALSE,l.messenger.com,referral,/l.php,California,1,0,0,0
+23/07/2017,TRUE,t.co,referral,/QpXvjwMv6t,not available in demo dataset,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/ro/yt/about/press/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/hu/yt/about/press/,Washington,2,1,0,0
+23/07/2017,FALSE,docs.google.com,referral,/document/d/10s8J8C00_5DuUR1NFsR9jpUzR2uihBVg8Wv5rRY9AfQ/edit,California,2,1,0,0
+23/07/2017,FALSE,(direct),(none),/Rewards/Products/Details.aspx,not available in demo dataset,1,0,0,0
+23/07/2017,TRUE,yahoo,organic,,not available in demo dataset,2,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/et/yt/about/press/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/is/yt/about/press/,Washington,2,2,0,0
+23/07/2017,TRUE,google,organic,,Colorado,6,2,0,0
+23/07/2017,TRUE,google,cpc,,Colorado,3,1,1,101480000
+23/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,Ontario,1,0,0,0
+23/07/2017,FALSE,quora.com,referral,/How-can-one-get-a-Google-T-shirt-in-India,not available in demo dataset,2,1,0,0
+23/07/2017,TRUE,(direct),(none),,Colorado,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/,District of Columbia,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/ta/yt/about/copyright/,Washington,1,0,0,0
+23/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,Massachusetts,1,1,0,0
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,Washington,1,1,0,0
+23/07/2017,FALSE,(direct),(none),,Michigan,2,1,0,0
+23/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,California,1,0,0,0
+23/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/working-with-perks,not available in demo dataset,1,0,0,0
+23/07/2017,TRUE,dfa,cpm,,Colorado,1,0,0,0
+23/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,not available in demo dataset,3,0,0,0
+23/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,California,1,0,0,0
+23/07/2017,FALSE,google,cpm,,Texas,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Texas,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/,Massachusetts,1,1,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/press/,Illinois,1,1,0,0
+23/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,Massachusetts,1,0,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,Georgia,2,0,0,0
+23/07/2017,FALSE,Partners,affiliate,,Illinois,1,1,0,0
+23/07/2017,TRUE,google,organic,,Mexico City,2,1,0,0
+23/07/2017,TRUE,(direct),(none),,Virginia,2,1,0,0
+23/07/2017,TRUE,google,cpm,,Pennsylvania,1,0,0,0
+23/07/2017,FALSE,(direct),(none),,Oregon,1,0,0,0
+23/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Florida,1,0,0,0
+23/07/2017,FALSE,(direct),(none),/view,New York,1,0,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/experiences/,Texas,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/et/yt/about/copyright/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/fil/yt/about/copyright/,Washington,1,0,0,0
+23/07/2017,FALSE,google,cpm,,California,61,18,4,237240000
+23/07/2017,FALSE,google,organic,,not available in demo dataset,1041,390,24,3126450000
+23/07/2017,FALSE,(direct),(none),,California,256,89,10,747930000
+23/07/2017,FALSE,google,cpm,,New York,7,2,0,0
+23/07/2017,TRUE,google,organic,,not available in demo dataset,1087,497,12,526210000
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store,California,4,2,0,0
+23/07/2017,FALSE,google,cpc,,California,53,12,2,101060000
+23/07/2017,FALSE,(direct),(none),,not available in demo dataset,356,144,15,2635980000
+23/07/2017,TRUE,(direct),(none),,not available in demo dataset,271,137,2,32980000
+23/07/2017,TRUE,(direct),(none),,Georgia,10,4,0,0
+23/07/2017,FALSE,(direct),(none),,New York,47,17,1,203220000
+23/07/2017,FALSE,(direct),(none),/,not available in demo dataset,171,37,21,1823060000
+23/07/2017,FALSE,google,organic,,Pennsylvania,8,3,0,0
+23/07/2017,TRUE,(direct),(none),,Catalonia,10,2,1,33280000
+23/07/2017,TRUE,mail.google.com,referral,/mail/mu/mp/876/,not available in demo dataset,1,1,0,0
+23/07/2017,FALSE,(direct),(none),/offer/2145,not available in demo dataset,16,8,0,0
+23/07/2017,FALSE,(direct),(none),/,Illinois,40,6,3,525810000
+23/07/2017,TRUE,google,organic,,District of Columbia,13,10,0,0
+23/07/2017,FALSE,google,organic,,Nevada,8,3,1,19850000
+23/07/2017,TRUE,google,organic,,Arizona,1,1,0,0
+23/07/2017,FALSE,google,organic,,Georgia,9,3,0,0
+23/07/2017,TRUE,google,organic,,England,1,1,0,0
+23/07/2017,TRUE,google,organic,,Tennessee,3,2,0,0
+23/07/2017,TRUE,google,organic,,Oregon,1,1,0,0
+23/07/2017,TRUE,google,organic,,Washington,24,10,0,0
+23/07/2017,FALSE,Partners,affiliate,,New York,4,1,0,0
+23/07/2017,TRUE,(direct),(none),,Texas,19,9,0,0
+23/07/2017,FALSE,bing,organic,,not available in demo dataset,9,0,0,0
+23/07/2017,TRUE,google,cpc,,Arizona,1,0,0,0
+23/07/2017,FALSE,(direct),(none),/Rewards/Products/Details.aspx,California,1,0,0,0
+23/07/2017,FALSE,google,organic,,Minnesota,1,0,0,0
+23/07/2017,FALSE,(direct),(none),/,Michigan,19,3,2,751560000
+23/07/2017,TRUE,Partners,affiliate,,Nevada,1,0,0,0
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,California,23,4,1,61010000
+23/07/2017,TRUE,(direct),(none),,Nevada,2,0,0,0
+23/07/2017,TRUE,(direct),(none),,New York,27,14,0,0
+23/07/2017,FALSE,bing,organic,,Texas,1,0,0,0
+23/07/2017,TRUE,google,cpm,,not available in demo dataset,1,0,0,0
+23/07/2017,TRUE,dfa,cpm,,California,8,3,0,0
+23/07/2017,FALSE,google,cpc,,Michigan,2,1,0,0
+23/07/2017,TRUE,google,cpc,,New York,26,14,0,0
+23/07/2017,FALSE,(direct),(none),,Illinois,16,5,2,170820000
+23/07/2017,FALSE,youtube.com,referral,/intl/zh-CN/yt/about/,not available in demo dataset,7,1,0,0
+23/07/2017,FALSE,groups.google.com,referral,/forum/,not available in demo dataset,2,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/it/yt/about/copyright/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Washington,15,7,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/gu/yt/about/policies/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/sr/yt/about/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/,Washington,10,8,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/press/,not available in demo dataset,4,2,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/ms/yt/about/copyright/,Washington,1,0,0,0
+23/07/2017,TRUE,youtube.com,referral,/intl/es/yt/about/press/,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/watch,not available in demo dataset,1,0,0,0
+23/07/2017,TRUE,google,cpc,,Pennsylvania,1,1,0,0
+23/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,not available in demo dataset,2,2,0,0
+23/07/2017,TRUE,google,cpc,,Illinois,8,6,0,0
+23/07/2017,TRUE,google,organic,,Florida,4,1,0,0
+23/07/2017,TRUE,Partners,affiliate,,not available in demo dataset,4,3,0,0
+23/07/2017,FALSE,(direct),(none),/site/welcomehome/welcomehomehomepage,California,1,1,0,0
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,Pennsylvania,1,1,0,0
+23/07/2017,FALSE,(direct),(none),,Georgia,3,1,1,555200000
+23/07/2017,TRUE,(direct),(none),,North Carolina,4,2,0,0
+23/07/2017,TRUE,mail.google.com,referral,/mail/mu/mp/221/,California,1,0,0,0
+23/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,Georgia,1,0,0,0
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/aa-noogler/getting-started/training-schedule,California,4,0,1,15200000
+23/07/2017,TRUE,youtube.com,referral,/yt/about/,not available in demo dataset,14,6,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/de/yt/about/press/,Washington,1,1,0,0
+23/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,not available in demo dataset,6,1,0,0
+23/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4spnk9/where_to_buy_the_golang_gopher_plush/,New York,1,0,0,0
+23/07/2017,TRUE,google,cpc,,Washington,5,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,California,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/vi/yt/about/,Washington,2,1,0,0
+23/07/2017,FALSE,google,organic,,Ontario,4,4,0,0
+23/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,(not set),1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/zh-HK/yt/about/press/,not available in demo dataset,1,1,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/press/,California,3,1,0,0
+23/07/2017,TRUE,dfa,cpm,,Texas,1,1,0,0
+23/07/2017,TRUE,google,cpc,,(not set),2,1,0,0
+23/07/2017,FALSE,google,cpc,,Texas,5,3,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/fi/yt/about/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/es-419/yt/about/policies/,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/id/yt/about/copyright/,Washington,1,0,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,Tennessee,1,0,0,0
+23/07/2017,FALSE,google,cpc,,Georgia,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/id/yt/about/press/,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,(direct),(none),/offer/2145,Ontario,3,1,0,0
+23/07/2017,TRUE,dfa,cpm,,New York,1,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/iw/yt/about/copyright/,Washington,2,1,0,0
+23/07/2017,FALSE,(direct),(none),/,Colorado,1,0,1,201800000
+23/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,New York,1,1,0,0
+23/07/2017,TRUE,m.facebook.com,referral,/,California,3,2,0,0
+23/07/2017,FALSE,search.xfinity.com,referral,/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/sr/yt/about/copyright/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/zh-HK/yt/about/copyright/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/brand-resources/,not available in demo dataset,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/es-419/yt/about/press/,Washington,1,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/gl/yt/about/,Washington,1,1,0,0
+23/07/2017,FALSE,google,cpm,,District of Columbia,1,1,0,0
+23/07/2017,FALSE,optimize.google.com,referral,/optimize/opt-launch.html,California,1,1,0,0
+23/07/2017,FALSE,lunametrics.com,referral,/blog/2016/08/03/google-analytics-demo-account/,California,1,1,0,0
+23/07/2017,FALSE,(direct),(none),/offer/2145,Illinois,1,1,0,0
+23/07/2017,FALSE,google.com,referral,/intl/ALL/permissions/using-the-logo.html,not available in demo dataset,1,1,0,0
+23/07/2017,TRUE,google.com,referral,/intl/ALL/permissions/using-the-logo.html,not available in demo dataset,1,1,0,0
+23/07/2017,TRUE,google,organic,,Michigan,2,2,0,0
+23/07/2017,TRUE,google,cpm,,Washington,1,0,0,0
+23/07/2017,FALSE,blog.golang.org,referral,/gopher,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,l.messenger.com,referral,/l.php,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,search.tb.ask.com,referral,/search/GGmain.jhtml,not available in demo dataset,1,0,0,0
+23/07/2017,TRUE,youtube.com,referral,/yt/about/,Colorado,1,0,0,0
+23/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/working-with-perks,New York,1,1,0,0
+23/07/2017,TRUE,baidu,organic,,(not set),1,1,0,0
+23/07/2017,FALSE,(direct),(none),,Virginia,3,3,0,0
+23/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,Texas,2,2,0,0
+23/07/2017,TRUE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,not available in demo dataset,1,0,0,0
+23/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store,Washington,2,0,0,0
+23/07/2017,FALSE,youtube.com,referral,/intl/fi/yt/about/press/,Washington,3,1,0,0
+23/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Florida,1,1,0,0
+23/07/2017,TRUE,youtube.com,referral,/intl/en-GB/yt/about/,not available in demo dataset,1,0,0,0
+30/07/2017,TRUE,lm.facebook.com,referral,/l.php,not available in demo dataset,1,0,0,0
+30/07/2017,TRUE,google,cpc,,California,11,5,0,0
+30/07/2017,FALSE,(direct),(none),/,not available in demo dataset,58,8,7,1545430000
+30/07/2017,TRUE,Partners,affiliate,,not available in demo dataset,2,1,0,0
+30/07/2017,TRUE,(direct),(none),,California,39,16,0,0
+30/07/2017,TRUE,dfa,cpm,,California,6,3,0,0
+30/07/2017,TRUE,(direct),(none),,Illinois,4,1,0,0
+30/07/2017,FALSE,sites.google.com,referral,/a/google.com/google-merchandise-store/newsite/on-site-store/mountain-view-store,California,1,0,0,0
+30/07/2017,FALSE,Partners,affiliate,,not available in demo dataset,4,1,0,0
+30/07/2017,TRUE,google,cpc,,Washington,3,1,0,0
+30/07/2017,FALSE,Partners,affiliate,,California,3,3,0,0
+30/07/2017,FALSE,Partners,affiliate,,(not set),3,3,0,0
+30/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,not available in demo dataset,4,1,0,0
+30/07/2017,FALSE,l.facebook.com,referral,/l.php,(not set),3,3,0,0
+30/07/2017,TRUE,youtube.com,referral,/yt/about/,not available in demo dataset,6,2,0,0
+30/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,10,9,0,0
+30/07/2017,FALSE,youtube.com,referral,/intl/zh-CN/yt/about/press/,(not set),1,1,0,0
+30/07/2017,FALSE,youtube.com,referral,/yt/about/press/,not available in demo dataset,7,6,0,0
+30/07/2017,FALSE,youtube.com,referral,/yt/about/press/,Washington,2,1,0,0
+30/07/2017,FALSE,google,organic,,Illinois,9,4,0,0
+30/07/2017,FALSE,youtube.com,referral,/yt/about/,Washington,3,2,0,0
+30/07/2017,TRUE,google,organic,,England,1,1,0,0
+30/07/2017,FALSE,youtube.com,referral,/intl/hr/yt/about/copyright/,Washington,1,1,0,0
+30/07/2017,FALSE,(direct),(none),,Massachusetts,2,1,0,0
+30/07/2017,FALSE,google,cpc,,New York,1,1,0,0
+30/07/2017,FALSE,duckduckgo.com,referral,/,California,1,1,0,0
+30/07/2017,FALSE,google,organic,,Oregon,10,2,0,0
+30/07/2017,FALSE,(direct),(none),/,Massachusetts,9,2,1,141150000
+30/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,New York,2,2,0,0
+30/07/2017,TRUE,(direct),(none),,Texas,10,4,1,633820000
+30/07/2017,FALSE,(direct),(none),,Colorado,2,1,0,0
+30/07/2017,FALSE,(direct),(none),,Virginia,5,3,0,0
+30/07/2017,FALSE,Partners,affiliate,,Washington,1,1,0,0
+30/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,Pennsylvania,1,1,0,0
+30/07/2017,TRUE,google,organic,,(not set),2,1,0,0
+30/07/2017,TRUE,google,cpc,,Texas,4,3,0,0
+30/07/2017,TRUE,google,organic,,Arizona,1,1,0,0
+30/07/2017,TRUE,(direct),(none),,Arizona,1,1,0,0
+30/07/2017,FALSE,google,organic,,Michigan,1,1,0,0
+30/07/2017,FALSE,ask,organic,,not available in demo dataset,1,0,0,0
+30/07/2017,TRUE,(direct),(none),,Pennsylvania,2,0,1,10990000
+30/07/2017,FALSE,google,organic,,Pennsylvania,4,0,0,0
+30/07/2017,TRUE,google,cpc,,Illinois,1,0,0,0
+30/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,Georgia,1,0,0,0
+30/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,Texas,2,0,0,0
+30/07/2017,TRUE,google,cpc,,New York,1,0,0,0
+30/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,California,2,0,0,0
+30/07/2017,FALSE,(direct),(none),/,Zurich,1,0,0,0
+30/07/2017,FALSE,google,cpc,,Oregon,1,0,0,0
+30/07/2017,FALSE,(direct),(none),/,Arizona,1,0,0,0
+30/07/2017,FALSE,facebook.com,referral,/,not available in demo dataset,1,1,0,0
+30/07/2017,FALSE,reddit.com,referral,/r/HomeImprovement/comments/5acczs/how_to_temporarily_screen_an_apartment_balcony_to/,Pennsylvania,1,1,0,0
+30/07/2017,FALSE,youtube.com,referral,/intl/de/yt/about/copyright/,Washington,1,1,0,0
+30/07/2017,TRUE,m.facebook.com,referral,/,(not set),1,1,0,0
+30/07/2017,TRUE,lm.facebook.com,referral,/l.php,California,1,0,0,0
+30/07/2017,TRUE,youtube.com,referral,/yt/about/brand-resources/,not available in demo dataset,1,0,0,0
+30/07/2017,FALSE,(direct),(none),,California,64,29,0,0
+30/07/2017,TRUE,google,organic,,California,95,34,1,50380000
+30/07/2017,TRUE,google,cpc,,not available in demo dataset,32,8,2,59890000
+30/07/2017,TRUE,(direct),(none),,not available in demo dataset,91,36,2,927060000
+30/07/2017,FALSE,(direct),(none),,not available in demo dataset,72,20,7,2497480000
+30/07/2017,FALSE,bing,organic,,not available in demo dataset,2,0,0,0
+30/07/2017,FALSE,google,organic,,North Carolina,2,0,0,0
+30/07/2017,TRUE,yahoo,organic,,not available in demo dataset,2,0,0,0
+30/07/2017,TRUE,google,organic,,North Carolina,5,5,0,0
+30/07/2017,FALSE,(direct),(none),,New York,17,8,1,104950000
+30/07/2017,FALSE,google,cpc,,Illinois,2,1,0,0
+30/07/2017,FALSE,google,organic,,Georgia,4,1,0,0
+30/07/2017,TRUE,dfa,cpm,,not available in demo dataset,6,3,0,0
+30/07/2017,TRUE,google,organic,,Washington,5,3,0,0
+30/07/2017,FALSE,(direct),(none),/,New York,38,9,7,1408290000
+30/07/2017,FALSE,(direct),(none),,Washington,6,1,1,18590000
+30/07/2017,FALSE,(direct),(none),/,Illinois,6,0,1,46990000
+30/07/2017,FALSE,(direct),(none),,(not set),13,12,0,0
+30/07/2017,TRUE,(direct),(none),,Washington,2,1,1,648600000
+30/07/2017,FALSE,sites.google.com,referral,/a/google.com/googletopia/discounts-deals-and-free-stuff/alphabet-google-discounts,California,5,3,0,0
+30/07/2017,TRUE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,2,1,0,0
+30/07/2017,TRUE,(direct),(none),,New York,4,4,0,0
+30/07/2017,TRUE,analytics.google.com,referral,/analytics/web/,not available in demo dataset,1,0,0,0
+30/07/2017,FALSE,youtube.com,referral,/intl/ca/yt/about/,Washington,1,1,0,0
+30/07/2017,FALSE,youtube.com,referral,/intl/es-419/yt/about/,not available in demo dataset,1,1,0,0
+30/07/2017,TRUE,google,organic,,Colorado,2,2,0,0
+30/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4zk0qy/in_serious_need_of_some_gopher_golang_swag/,New York,1,1,0,0
+30/07/2017,TRUE,(direct),(none),,North Carolina,1,1,0,0
+30/07/2017,TRUE,youtube.com,referral,/yt/about/copyright/,not available in demo dataset,2,1,0,0
+30/07/2017,FALSE,youtube.com,referral,/yt/about/,New York,1,1,0,0
+30/07/2017,TRUE,youtube.com,referral,/intl/en-GB/yt/about/press/,not available in demo dataset,1,0,0,0
+30/07/2017,TRUE,m.baidu.com,referral,/from=1000969a/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401321_1004%2Cta%40utouch_2_4.4__/baiduid=FB64491C1DA44B0BCD04A59245218CB4/w=0_10_gooleshop/t=wap/l=3/tc,(not set),1,1,0,0
+30/07/2017,FALSE,Partners,affiliate,,New York,6,4,0,0
+30/07/2017,FALSE,google,organic,,Massachusetts,2,1,0,0
+30/07/2017,FALSE,docs.google.com,referral,/a/google.com/document/d/1PC6ZZjvBxmAod0TkV-7ZPA7JFcS-OseDYDQyT3BDbx0/pub,California,1,1,0,0
+30/07/2017,FALSE,(direct),(none),,Pennsylvania,1,1,0,0
+30/07/2017,TRUE,(direct),(none),,Michigan,2,1,0,0
+30/07/2017,TRUE,google,cpc,,Oregon,1,1,0,0
+30/07/2017,FALSE,(direct),(none),/,Washington,7,0,3,51570000
+30/07/2017,TRUE,google,organic,,Michigan,1,0,0,0
+30/07/2017,TRUE,google,organic,,Oregon,3,0,0,0
+30/07/2017,FALSE,google,cpm,,Michigan,1,0,0,0
+30/07/2017,FALSE,dealspotr.com,referral,/google-merchandise-store,not available in demo dataset,1,0,0,0
+30/07/2017,FALSE,google,organic,,Virginia,3,0,1,2494000000
+30/07/2017,TRUE,yahoo,organic,,California,1,0,0,0
+30/07/2017,FALSE,(direct),(none),/offer/2145,Pennsylvania,1,0,0,0
+30/07/2017,TRUE,dfa,cpm,,New York,1,0,0,0
+30/07/2017,FALSE,(direct),(none),/,Pennsylvania,2,0,1,72910000
+30/07/2017,FALSE,(direct),(none),/,Texas,1,0,1,38150000
+30/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Pennsylvania,1,1,0,0
+30/07/2017,FALSE,youtube.com,referral,/intl/lt/yt/about/,Washington,1,1,0,0
+30/07/2017,FALSE,l.facebook.com,referral,/l.php,not available in demo dataset,1,1,0,0
+30/07/2017,FALSE,plus.google.com,referral,/,California,1,0,0,0
+30/07/2017,FALSE,youtube.com,referral,/intl/iw/yt/about/copyright/,Washington,1,0,0,0
+30/07/2017,FALSE,youtube.com,referral,/intl/zh-TW/yt/about/press/,Washington,1,0,0,0
+30/07/2017,TRUE,m.facebook.com,referral,/,not available in demo dataset,1,0,0,0
+30/07/2017,FALSE,google,organic,,California,132,40,3,111470000
+30/07/2017,FALSE,google,cpc,,not available in demo dataset,44,13,0,0
+30/07/2017,FALSE,google,organic,,not available in demo dataset,303,108,9,1088490000
+30/07/2017,TRUE,google,organic,,New York,18,5,0,0
+30/07/2017,TRUE,google,organic,,not available in demo dataset,323,156,4,98270000
+30/07/2017,FALSE,google,cpc,,California,21,6,0,0
+30/07/2017,FALSE,google,organic,,New York,29,16,1,71500000
+30/07/2017,TRUE,google,organic,,Texas,19,7,0,0
+30/07/2017,FALSE,(direct),(none),/,California,218,42,14,1109410000
+30/07/2017,TRUE,google,organic,,Georgia,8,6,0,0
+30/07/2017,TRUE,google,organic,,Illinois,13,7,0,0
+30/07/2017,FALSE,(direct),(none),,Texas,7,2,0,0
+30/07/2017,TRUE,m.facebook.com,referral,/,New York,1,0,0,0
+30/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,California,1,0,0,0
+30/07/2017,FALSE,dfa,cpm,,California,6,3,0,0
+30/07/2017,FALSE,quora.com,referral,/Where-can-I-buy-a-stuffed-Go-language-gopher-mascot-online,not available in demo dataset,1,0,0,0
+30/07/2017,FALSE,google,organic,,Texas,11,6,0,0
+30/07/2017,TRUE,google,cpc,,Colorado,1,0,0,0
+30/07/2017,FALSE,(direct),(none),/offer/2145,California,14,6,0,0
+30/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,California,6,0,0,0
+30/07/2017,FALSE,(direct),(none),/,Colorado,2,0,2,127700000
+30/07/2017,FALSE,(direct),(none),/offer/2145,not available in demo dataset,4,1,1,48350000
+30/07/2017,TRUE,(direct),(none),,(not set),15,14,0,0
+30/07/2017,FALSE,google,cpm,,California,26,14,0,0
+30/07/2017,FALSE,google,organic,,Washington,3,2,0,0
+30/07/2017,FALSE,sites.google.com,referral,/corp/google.com/google-merchandise-store/faqs,Georgia,1,1,0,0
+30/07/2017,FALSE,(direct),(none),,Illinois,2,1,0,0
+30/07/2017,FALSE,analytics.google.com,referral,/analytics/web/,not available in demo dataset,4,4,0,0
+30/07/2017,FALSE,facebook.com,referral,/,California,1,1,0,0
+30/07/2017,FALSE,l.messenger.com,referral,/l.php,California,1,1,0,0
+30/07/2017,FALSE,google,organic,,Colorado,1,1,0,0
+30/07/2017,FALSE,youtube.com,referral,/yt/about/,not available in demo dataset,10,7,0,0
+30/07/2017,FALSE,youtube.com,referral,/intl/fil/yt/about/,Washington,1,1,0,0
+30/07/2017,FALSE,dfa,cpm,,not available in demo dataset,3,1,0,0
+30/07/2017,FALSE,youtube.com,referral,/yt/about/copyright/,Washington,2,2,0,0
+30/07/2017,FALSE,reddit.com,referral,/r/golang/comments/4zk0qy/in_serious_need_of_some_gopher_golang_swag/,California,1,1,0,0
+30/07/2017,FALSE,google,organic,,(not set),2,1,0,0
+30/07/2017,FALSE,google,cpm,,New York,3,1,0,0
+30/07/2017,FALSE,sites.google.com,referral,/corp/google.com/study/incentives/incentives-amounts,California,1,1,0,0
+30/07/2017,FALSE,(direct),(none),,Arizona,3,2,0,0
+30/07/2017,TRUE,(direct),(none),,Colorado,1,1,0,0
+30/07/2017,TRUE,Partners,affiliate,,New York,1,1,0,0
+30/07/2017,FALSE,blog.golang.org,referral,/gopher,not available in demo dataset,1,1,0,0
+30/07/2017,FALSE,(direct),(none),/,Michigan,9,1,5,518700000
+30/07/2017,TRUE,(direct),(none),/,not available in demo dataset,2,1,0,0
+30/07/2017,TRUE,bing,organic,,not available in demo dataset,1,1,0,0
+30/07/2017,TRUE,google,cpm,,California,1,1,0,0
+30/07/2017,FALSE,google,organic,,Arizona,2,1,0,0
+30/07/2017,FALSE,google.com,referral,/permissions/using-the-logo.html,not available in demo dataset,2,0,0,0
+30/07/2017,FALSE,googleads.g.doubleclick.net,referral,/pagead/ads,California,1,0,0,0
+30/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,Pennsylvania,3,0,0,0
+30/07/2017,FALSE,google,cpc,,Texas,1,0,0,0
+30/07/2017,FALSE,google,organic,,Ontario,1,0,0,0
+30/07/2017,FALSE,google,cpc,,Massachusetts,1,0,0,0
+30/07/2017,FALSE,google,cpm,,Washington,1,0,0,0
+30/07/2017,FALSE,mail.google.com,referral,/mail/u/0/,not available in demo dataset,1,0,0,0
+30/07/2017,FALSE,google,cpm,,not available in demo dataset,1,0,0,0
+30/07/2017,FALSE,(direct),(none),/,Georgia,1,0,1,16590000
+30/07/2017,FALSE,(direct),(none),,Oregon,1,0,0,0
+30/07/2017,FALSE,groups.google.com,referral,/a/google.com/forum/,California,4,2,0,0
+30/07/2017,FALSE,youtube.com,referral,/,not available in demo dataset,1,0,0,0
+30/07/2017,TRUE,youtube.com,referral,/yt/about/policies/,not available in demo dataset,1,0,0,0
